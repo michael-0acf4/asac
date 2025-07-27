@@ -77,7 +77,7 @@ def to_hex(bytecode: List[bytes]) -> List[str]:
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python script.py <file>")
+        print("Usage: python assembler.py <file>")
         sys.exit(1)
 
     filepath = sys.argv[1]
