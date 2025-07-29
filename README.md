@@ -1,9 +1,41 @@
 # asac
 
 A Simple Audio Chip (ASAC) is a simple chip in which we can write programs that
-mimics the MIDI format.
+mimics the [MIDI format](https://en.wikipedia.org/wiki/MIDI).
 
-It currently supports 4 channels.
+![Main board](images/schema.png)
+
+- Supports 4 channels
+- Each instruction takes exactly 1 clock cycle except `WAIT` (expands into
+  multiple `NOOP`).
+
+# "Hello World" example
+
+```asm
+LABEL start
+    NOTEON 1 261 100
+    WAIT 2
+    NOTEOFF 1
+
+    NOTEON 2 329 100
+    WAIT 2
+    NOTEOFF 2
+
+    NOTEON 3 392 100
+    WAIT 2
+    NOTEOFF 3
+
+    NOTEON 4 523 100
+    WAIT 2
+    NOTEOFF 4
+
+    JUMP start
+```
+
+I have not planned on adding conditional jumps (as in jump when note on channel
+X is on/off) yet. This is purely intented as a simple target for audio
+descriptions such as the MIDI format or most
+[DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation).
 
 # Instruction Set
 
@@ -13,6 +45,7 @@ NOTEON  [chan]  [       freq         ]   [  vel  ]
 NOTEOFF [chan]
 WAIT            [       delay        ]
 JUMP            [       label        ]
+NOOP
 ```
 
 # Microcode Spec

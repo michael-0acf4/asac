@@ -62,6 +62,9 @@ def compile_instructions(lines: List[str]) -> List[bytes]:
                 bytecode.append(bytes([0x08, 0x00, 0x00, 0x00]))
                 delay -= 1
 
+        elif instr == "NOOP":
+            bytecode.append(bytes([0x08, 0x00, 0x00, 0x00]))
+
         elif instr == "JUMP":
             label = tokens[1].strip()
             if label not in jumps:
