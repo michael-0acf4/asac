@@ -1,0 +1,18 @@
+LABEL start
+    NOTEON 1 261 100
+    WAIT 2
+    NOTEOFF 1
+
+    NOTEON 2 329 100
+    WAIT 2
+    NOTEOFF 2
+
+    NOTEON 3 392 100
+    WAIT 2
+    NOTEOFF 3
+
+    NOTEON 4 523 100
+    WAIT 2
+    NOTEOFF 4
+
+    JUMP start

@@ -12,7 +12,7 @@ It currently supports 4 channels.
 NOTEON  [chan]  [       freq         ]   [  vel  ]
 NOTEOFF [chan]
 WAIT            [       delay        ]
-JUMP            [     addr_val       ]
+JUMP            [       label        ]
 ```
 
 # Microcode Spec

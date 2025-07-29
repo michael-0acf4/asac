@@ -27,6 +27,9 @@ def debug_actual_microcode(instr: str, chan: int) -> int:
 def compile_instructions(lines: List[str]) -> List[bytes]:
     bytecode = []
 
+    jumps = {}
+    instr_idx = 0
+
     for line in lines:
         tokens = line.strip().split()
         if not tokens:
@@ -47,24 +50,32 @@ def compile_instructions(lines: List[str]) -> List[bytes]:
             else:  # NOTEOFF
                 bytecode.append(bytes([opcode, 0x00, 0x00, 0x00]))
 
+        elif instr == "LABEL":
+            jumps[tokens[1].strip()] = instr_idx
+
         elif instr == "WAIT":
             delay = int(tokens[1])
             if delay > 0xFFFF:
                 raise ValueError("Delay exceeds 16-bit max")
-            delay_hi = (delay >> 8) & 0xFF
-            delay_lo = delay & 0xFF
-            bytecode.append(bytes([0x08, delay_lo, delay_hi, 0x00]))
+
+            while delay > 0:
+                bytecode.append(bytes([0x08, 0x00, 0x00, 0x00]))
+                delay -= 1
 
         elif instr == "JUMP":
-            addr = int(tokens[1])
-            if addr > 0xFFFF:
-                raise ValueError("Address exceeds 16-bit max")
+            label = tokens[1].strip()
+            if label not in jumps:
+                raise ValueError(f"Could not resolve label '{label}'")
+
+            addr = jumps[label]
             addr_hi = (addr >> 8) & 0xFF
             addr_lo = addr & 0xFF
             bytecode.append(bytes([0x09, addr_lo, addr_hi, 0x00]))
 
         else:
             raise ValueError(f"Unknown instruction: {instr}")
+
+        instr_idx += 1
 
     return bytecode
 
