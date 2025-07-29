@@ -9,6 +9,12 @@ mimics the [MIDI format](https://en.wikipedia.org/wiki/MIDI).
 - Each instruction takes exactly 1 clock cycle except `WAIT` (expands into
   multiple `NOOP`).
 
+# Demo
+
+[ASAC v1 | Gate Of Steiner (loud alert)](http://www.youtube.com/watch?v=_kRC-5GoDq0 "ASAC v1 | Gate Of Steiner (loud alert)")
+
+[![Gate Of Steiner](http://img.youtube.com/vi/_kRC-5GoDq0/0.jpg)](http://www.youtube.com/watch?v=_kRC-5GoDq0 "ASAC v1 | Gate Of Steiner (loud alert)")
+
 # "Hello World" example
 
 ```asm
@@ -33,7 +39,7 @@ LABEL start
 ```
 
 I have not planned on adding conditional jumps (as in jump when note on channel
-X is on/off) yet. This is purely intented as a simple target for audio
+X is on/off) yet. This is purely intented as a simple target for simple audio
 descriptions such as the MIDI format or most
 [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation).
 

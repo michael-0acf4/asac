@@ -1,0 +1,4038 @@
+LABEL start
+    WAIT 3
+    NOTEON 1 391 25
+    WAIT 1
+    NOTEON 2 466 30
+    WAIT 1
+    NOTEON 3 195 29
+    WAIT 1
+    NOTEON 4 622 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 28
+    WAIT 1
+    WAIT 1
+    NOTEON 2 587 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 29
+    WAIT 1
+    WAIT 1
+    NOTEON 2 554 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 28
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 27
+    WAIT 1
+    NOTEON 2 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 29
+    WAIT 1
+    NOTEON 2 391 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 32
+    WAIT 1
+    NOTEON 2 195 29
+    WAIT 1
+    NOTEON 3 622 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 554 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 587 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    NOTEON 2 415 32
+    WAIT 1
+    NOTEON 3 174 28
+    WAIT 1
+    NOTEON 4 622 24
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 29
+    WAIT 1
+    NOTEON 4 415 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 32
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 32
+    WAIT 1
+    NOTEON 1 391 27
+    WAIT 1
+    WAIT 1
+    NOTEON 2 415 25
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 26
+    WAIT 1
+    WAIT 1
+    NOTEON 2 415 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 30
+    WAIT 1
+    NOTEON 2 146 28
+    WAIT 1
+    NOTEON 3 523 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 220 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 349 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 32
+    WAIT 1
+    NOTEON 3 220 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    NOTEON 2 391 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    NOTEON 2 587 32
+    NOTEON 3 195 31
+    WAIT 1
+    NOTEON 4 493 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 2 349 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 493 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 174 32
+    NOTEON 2 293 31
+    WAIT 1
+    NOTEON 3 698 35
+    NOTEON 4 246 32
+    WAIT 1
+    WAIT 1
+    NOTEON 4 622 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 29
+    WAIT 1
+    NOTEON 2 523 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 29
+    NOTEON 2 195 27
+    WAIT 1
+    NOTEON 3 1244 38
+    WAIT 1
+    NOTEON 4 293 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 466 24
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 36
+    WAIT 1
+    NOTEON 2 1174 39
+    WAIT 1
+    NOTEON 3 195 31
+    WAIT 1
+    WAIT 1
+    NOTEON 3 293 27
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 38
+    WAIT 1
+    NOTEON 2 195 31
+    WAIT 1
+    NOTEON 3 1108 38
+    WAIT 1
+    NOTEON 4 293 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 34
+    NOTEON 2 195 31
+    WAIT 1
+    NOTEON 3 1174 36
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 36
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 31
+    WAIT 1
+    NOTEON 2 880 33
+    WAIT 1
+    NOTEON 3 1244 36
+    NOTEON 4 195 27
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 31
+    WAIT 1
+    NOTEON 1 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 38
+    WAIT 1
+    NOTEON 2 587 37
+    NOTEON 3 1174 37
+    WAIT 1
+    NOTEON 4 195 32
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 32
+    WAIT 1
+    NOTEON 4 440 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 31
+    WAIT 1
+    NOTEON 2 830 33
+    WAIT 1
+    NOTEON 3 1108 36
+    WAIT 1
+    NOTEON 4 195 37
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 34
+    WAIT 1
+    NOTEON 2 830 30
+    WAIT 1
+    NOTEON 3 1174 38
+    WAIT 1
+    NOTEON 4 195 37
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 33
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 30
+    WAIT 1
+    NOTEON 2 830 33
+    NOTEON 3 1046 37
+    WAIT 1
+    NOTEON 4 174 26
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 261 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 29
+    WAIT 1
+    NOTEON 2 698 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 207 24
+    WAIT 1
+    NOTEON 3 783 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 329 33
+    WAIT 1
+    NOTEON 2 523 29
+    NOTEON 3 233 28
+    WAIT 1
+    NOTEON 4 1046 36
+    NOTEOFF 1
+    NOTEON 1 391 29
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 659 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 932 34
+    WAIT 1
+    NOTEON 2 466 34
+    WAIT 1
+    NOTEON 3 130 33
+    NOTEON 4 195 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 415 29
+    WAIT 1
+    NOTEON 2 174 31
+    WAIT 1
+    NOTEON 3 783 36
+    NOTEON 4 523 37
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 311 35
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 87 33
+    WAIT 1
+    NOTEON 2 261 35
+    NOTEON 3 207 30
+    WAIT 1
+    NOTEON 4 195 32
+    WAIT 2
+    WAIT 1
+    WAIT 1
+    WAIT 4
+    NOTEON 1 130 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 87 33
+    WAIT 1
+    NOTEON 2 349 36
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 30
+    WAIT 1
+    NOTEON 3 261 33
+    WAIT 1
+    NOTEON 4 207 27
+    NOTEOFF 1
+    NOTEON 1 130 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 87 32
+    WAIT 1
+    WAIT 2
+    NOTEON 1 130 33
+    WAIT 1
+    NOTEON 2 195 33
+    NOTEON 4 207 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 34
+    WAIT 1
+    NOTEON 2 130 30
+    WAIT 1
+    WAIT 2
+    NOTEON 2 261 33
+    NOTEON 3 233 28
+    WAIT 1
+    NOTEON 4 195 31
+    NOTEOFF 1
+    NOTEON 1 155 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 130 33
+    WAIT 1
+    WAIT 2
+    NOTEON 1 155 28
+    WAIT 1
+    NOTEON 3 195 30
+    NOTEON 4 233 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 30
+    WAIT 1
+    NOTEON 2 138 30
+    WAIT 1
+    WAIT 2
+    NOTEON 2 233 29
+    WAIT 1
+    NOTEON 3 207 29
+    WAIT 1
+    NOTEON 4 174 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 30
+    WAIT 1
+    NOTEON 2 466 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 77 32
+    WAIT 1
+    NOTEON 2 391 33
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 27
+    WAIT 1
+    NOTEON 3 195 30
+    NOTEON 4 138 25
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    NOTEON 1 622 30
+    WAIT 1
+    NOTEON 2 523 25
+    WAIT 1
+    WAIT 1
+    NOTEON 1 87 30
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 29
+    NOTEON 3 207 24
+    NOTEON 4 130 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 29
+    WAIT 1
+    NOTEON 2 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 65 33
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 30
+    WAIT 1
+    NOTEON 2 164 32
+    WAIT 1
+    NOTEON 3 195 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 207 25
+    WAIT 1
+    NOTEON 2 261 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 33
+    WAIT 1
+    NOTEON 3 87 36
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    WAIT 1
+    NOTEON 1 261 30
+    NOTEON 2 207 27
+    NOTEON 3 130 30
+    WAIT 1
+    NOTEON 4 195 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 2 87 33
+    WAIT 1
+    WAIT 2
+    NOTEON 2 130 29
+    WAIT 1
+    NOTEON 3 207 25
+    NOTEON 4 195 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 349 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 33
+    WAIT 1
+    NOTEON 2 391 33
+    WAIT 1
+    NOTEON 3 130 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 30
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 32
+    NOTEON 3 233 29
+    WAIT 1
+    NOTEON 4 195 31
+    NOTEOFF 1
+    NOTEON 1 155 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 30
+    WAIT 2
+    NOTEON 2 130 34
+    WAIT 1
+    WAIT 2
+    NOTEON 2 233 27
+    WAIT 1
+    NOTEON 3 195 31
+    NOTEON 4 155 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    NOTEON 2 415 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 116 29
+    WAIT 1
+    NOTEON 3 466 34
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 207 28
+    WAIT 1
+    NOTEON 2 311 29
+    NOTEON 4 174 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 31
+    WAIT 1
+    NOTEON 2 277 29
+    WAIT 1
+    NOTEON 3 415 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 29
+    WAIT 1
+    WAIT 1
+    NOTEON 2 77 30
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 28
+    WAIT 1
+    NOTEON 2 311 30
+    NOTEON 3 155 26
+    NOTEON 4 261 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 31
+    WAIT 1
+    NOTEON 2 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 87 31
+    WAIT 1
+    WAIT 2
+    NOTEON 1 261 35
+    WAIT 1
+    NOTEON 2 207 30
+    WAIT 1
+    NOTEON 3 195 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 207 33
+    WAIT 1
+    NOTEON 2 195 34
+    NOTEON 3 311 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 37
+    WAIT 1
+    NOTEON 2 261 38
+    NOTEON 3 220 37
+    NOTEON 4 87 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 130 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 40
+    WAIT 1
+    NOTEON 2 349 41
+    NOTEON 3 440 40
+    NOTEON 4 43 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 311 37
+    WAIT 1
+    NOTEON 2 261 34
+    NOTEON 3 466 36
+    NOTEON 4 77 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 69 38
+    WAIT 1
+    NOTEON 2 277 43
+    NOTEON 3 349 42
+    NOTEON 4 523 46
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 38
+    NOTEON 2 103 43
+    WAIT 1
+    NOTEON 3 349 41
+    NOTEON 4 466 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 349 38
+    WAIT 1
+    NOTEON 2 622 38
+    NOTEON 3 466 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 311 37
+    NOTEON 2 523 40
+    WAIT 1
+    NOTEON 3 415 39
+    NOTEON 4 77 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 33
+    WAIT 1
+    NOTEON 2 466 36
+    WAIT 1
+    NOTEON 3 391 39
+    NOTEON 4 116 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 391 38
+    WAIT 1
+    NOTEON 2 415 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 44
+    WAIT 1
+    NOTEON 2 311 48
+    NOTEON 3 261 42
+    NOTEON 4 65 42
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 415 38
+    NOTEON 2 130 36
+    WAIT 1
+    NOTEON 3 261 40
+    NOTEON 4 311 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 38
+    NOTEON 2 391 40
+    WAIT 1
+    NOTEON 3 466 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 43
+    NOTEON 2 391 39
+    NOTEON 3 87 39
+    WAIT 1
+    NOTEON 4 311 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 415 36
+    WAIT 1
+    NOTEON 2 261 39
+    NOTEON 3 311 36
+    WAIT 1
+    NOTEON 4 130 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 37
+    WAIT 1
+    NOTEON 2 207 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 40
+    WAIT 1
+    NOTEON 2 277 39
+    WAIT 1
+    NOTEON 3 349 41
+    WAIT 1
+    NOTEON 4 69 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 34
+    WAIT 1
+    NOTEON 2 349 40
+    NOTEON 3 103 35
+    WAIT 1
+    NOTEON 4 466 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 349 35
+    WAIT 1
+    NOTEON 2 466 37
+    NOTEON 3 622 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 36
+    WAIT 1
+    NOTEON 2 523 37
+    NOTEON 3 698 38
+    WAIT 1
+    NOTEON 4 77 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 184 32
+    WAIT 1
+    NOTEON 2 369 32
+    NOTEON 3 233 35
+    WAIT 1
+    NOTEON 4 466 38
+    NOTEOFF 1
+    NOTEON 1 622 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 32
+    WAIT 1
+    NOTEON 2 783 35
+    NOTEON 3 207 32
+    WAIT 1
+    NOTEON 4 261 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 87 29
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 311 33
+    NOTEON 2 233 32
+    WAIT 1
+    NOTEON 3 174 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 155 30
+    WAIT 1
+    NOTEON 2 195 42
+    NOTEON 3 65 40
+    WAIT 1
+    NOTEON 4 261 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 97 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 40
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 155 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 36
+    WAIT 1
+    NOTEON 2 277 31
+    NOTEON 3 349 40
+    WAIT 1
+    NOTEON 4 69 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 32
+    WAIT 1
+    NOTEON 2 349 40
+    NOTEON 3 103 38
+    WAIT 1
+    NOTEON 4 466 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 349 40
+    NOTEON 2 622 38
+    NOTEON 3 466 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 311 37
+    WAIT 1
+    NOTEON 2 415 39
+    NOTEON 3 523 40
+    NOTEON 4 77 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 35
+    WAIT 1
+    NOTEON 2 116 35
+    WAIT 1
+    NOTEON 3 391 39
+    NOTEON 4 466 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 391 36
+    WAIT 1
+    NOTEON 2 415 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 40
+    WAIT 1
+    NOTEON 2 311 42
+    WAIT 1
+    NOTEON 3 65 42
+    WAIT 1
+    NOTEON 4 261 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 130 37
+    WAIT 1
+    NOTEON 2 261 39
+    NOTEON 3 415 35
+    NOTEON 4 311 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 37
+    WAIT 1
+    NOTEON 2 466 38
+    WAIT 1
+    NOTEON 3 391 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 40
+    NOTEON 2 87 37
+    WAIT 1
+    NOTEON 3 233 45
+    WAIT 1
+    NOTEON 4 311 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 415 38
+    WAIT 1
+    NOTEON 2 261 41
+    NOTEON 3 311 38
+    NOTEON 4 130 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 35
+    WAIT 1
+    NOTEON 2 207 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 277 32
+    WAIT 1
+    NOTEON 2 349 40
+    WAIT 1
+    NOTEON 3 466 36
+    WAIT 1
+    NOTEON 4 92 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 138 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 34
+    WAIT 1
+    NOTEON 2 523 33
+    WAIT 1
+    NOTEON 3 184 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 42
+    WAIT 1
+    NOTEON 2 554 42
+    WAIT 1
+    NOTEON 3 233 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 37
+    WAIT 1
+    NOTEON 2 523 37
+    WAIT 1
+    NOTEON 3 261 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 31
+    WAIT 1
+    NOTEON 2 698 35
+    WAIT 1
+    NOTEON 3 466 37
+    WAIT 1
+    NOTEON 4 277 34
+    WAIT 1
+    WAIT 1
+    NOTEON 4 277 35
+    WAIT 1
+    WAIT 1
+    NOTEON 4 415 33
+    WAIT 1
+    WAIT 1
+    NOTEON 4 277 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 39
+    WAIT 1
+    NOTEON 2 466 36
+    WAIT 1
+    NOTEON 3 349 36
+    WAIT 1
+    NOTEON 4 698 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 43
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 33
+    WAIT 1
+    NOTEON 2 622 37
+    NOTEON 3 932 35
+    WAIT 1
+    NOTEON 4 155 42
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 31
+    WAIT 1
+    NOTEON 2 932 33
+    NOTEON 3 523 37
+    WAIT 1
+    NOTEON 4 698 40
+    NOTEOFF 1
+    NOTEON 1 87 33
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 29
+    NOTEOFF 1
+    NOTEON 1 261 27
+    NOTEOFF 1
+    NOTEON 1 174 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 29
+    WAIT 1
+    NOTEON 2 174 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 23
+    WAIT 1
+    NOTEON 2 523 35
+    WAIT 1
+    NOTEON 3 622 34
+    NOTEON 4 87 32
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 880 35
+    WAIT 1
+    WAIT 2
+    NOTEON 4 130 33
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 155 29
+    NOTEOFF 1
+    NOTEON 1 220 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 220 31
+    NOTEON 4 174 30
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 261 30
+    WAIT 3
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    NOTEON 2 466 29
+    WAIT 1
+    NOTEON 3 195 32
+    WAIT 1
+    NOTEON 4 622 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 32
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 32
+    WAIT 1
+    WAIT 1
+    NOTEON 2 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 32
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 28
+    WAIT 1
+    NOTEON 4 466 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 37
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 28
+    WAIT 1
+    NOTEON 4 466 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 29
+    WAIT 1
+    NOTEON 4 466 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 35
+    WAIT 1
+    NOTEON 2 195 26
+    WAIT 1
+    NOTEON 3 622 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 34
+    WAIT 1
+    WAIT 1
+    NOTEON 3 293 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 34
+    WAIT 1
+    NOTEON 1 554 36
+    WAIT 1
+    NOTEON 3 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 33
+    WAIT 1
+    NOTEON 3 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    NOTEON 2 174 30
+    WAIT 1
+    NOTEON 3 415 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 29
+    WAIT 1
+    WAIT 1
+    NOTEON 3 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 34
+    WAIT 1
+    NOTEON 4 415 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 32
+    WAIT 1
+    NOTEON 3 391 31
+    WAIT 1
+    NOTEON 4 415 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 33
+    WAIT 1
+    NOTEON 3 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 31
+    WAIT 1
+    NOTEON 2 415 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 35
+    WAIT 1
+    NOTEON 2 146 30
+    WAIT 1
+    NOTEON 3 523 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 220 32
+    WAIT 1
+    WAIT 1
+    NOTEON 3 349 33
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 220 35
+    WAIT 1
+    WAIT 1
+    NOTEON 2 349 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 31
+    WAIT 1
+    NOTEON 2 349 35
+    NOTEON 3 195 32
+    WAIT 1
+    NOTEON 4 493 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 493 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 174 32
+    WAIT 1
+    NOTEON 2 293 33
+    WAIT 1
+    NOTEON 3 698 35
+    NOTEON 4 246 36
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 622 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 587 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 37
+    WAIT 1
+    NOTEON 2 195 29
+    WAIT 1
+    NOTEON 3 1244 36
+    WAIT 1
+    NOTEON 4 293 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 466 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 37
+    WAIT 1
+    NOTEON 2 1174 38
+    NOTEON 3 195 29
+    WAIT 1
+    WAIT 1
+    NOTEON 3 293 38
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 36
+    NOTEON 2 195 27
+    WAIT 1
+    NOTEON 3 1108 36
+    WAIT 1
+    NOTEON 4 293 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 36
+    WAIT 1
+    NOTEON 2 195 31
+    WAIT 1
+    NOTEON 3 1174 38
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 38
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 33
+    NOTEON 2 880 36
+    WAIT 1
+    NOTEON 3 1244 38
+    WAIT 1
+    NOTEON 4 195 26
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 33
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    NOTEON 2 830 36
+    NOTEON 3 195 38
+    WAIT 1
+    NOTEON 4 1174 37
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 42
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 34
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    NOTEON 2 830 40
+    NOTEON 3 195 38
+    WAIT 1
+    NOTEON 4 1108 38
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1174 37
+    NOTEON 2 554 41
+    WAIT 1
+    NOTEON 3 830 30
+    WAIT 1
+    NOTEON 4 195 31
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 33
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 37
+    WAIT 1
+    NOTEON 2 1244 40
+    WAIT 1
+    NOTEON 3 739 32
+    WAIT 1
+    NOTEON 4 184 35
+    WAIT 1
+    WAIT 1
+    NOTEON 4 261 26
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 40
+    WAIT 1
+    NOTEON 2 440 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    NOTEON 2 880 35
+    NOTEON 3 1174 38
+    WAIT 1
+    NOTEON 4 184 40
+    WAIT 1
+    WAIT 1
+    NOTEON 4 261 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 30
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 37
+    WAIT 1
+    NOTEON 2 184 40
+    WAIT 1
+    NOTEON 3 739 36
+    NOTEON 4 1108 37
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 26
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 37
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 880 31
+    WAIT 1
+    NOTEON 2 1174 35
+    NOTEON 3 1760 39
+    WAIT 1
+    NOTEON 4 184 37
+    WAIT 1
+    WAIT 1
+    NOTEON 4 261 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 44
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 30
+    WAIT 1
+    NOTEON 2 1567 42
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 36
+    WAIT 1
+    NOTEON 3 1046 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1174 33
+    WAIT 1
+    NOTEON 2 440 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 36
+    WAIT 1
+    NOTEON 2 880 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 932 40
+    WAIT 1
+    NOTEON 2 195 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    NOTEON 2 783 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 880 35
+    WAIT 1
+    NOTEON 2 440 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 36
+    WAIT 1
+    NOTEON 2 466 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 146 39
+    WAIT 1
+    NOTEON 2 698 40
+    WAIT 1
+    NOTEON 3 220 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 659 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 329 38
+    WAIT 1
+    NOTEON 2 440 27
+    WAIT 1
+    WAIT 1
+    NOTEON 2 349 36
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 523 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 146 26
+    WAIT 1
+    NOTEON 2 220 38
+    WAIT 1
+    NOTEON 3 391 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 38
+    WAIT 1
+    NOTEON 2 329 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1760 43
+    WAIT 1
+    NOTEON 2 110 40
+    WAIT 1
+    NOTEON 3 164 41
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1174 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1318 33
+    NOTEON 2 246 40
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 37
+    WAIT 1
+    NOTEON 3 987 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1046 37
+    WAIT 1
+    NOTEON 2 110 37
+    WAIT 1
+    NOTEON 3 164 38
+    WAIT 1
+    NOTEON 4 880 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 987 33
+    NOTEON 2 246 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 659 38
+    WAIT 1
+    NOTEON 3 261 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 38
+    WAIT 1
+    NOTEON 2 164 31
+    WAIT 1
+    NOTEON 3 246 29
+    WAIT 1
+    NOTEON 4 739 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 35
+    WAIT 1
+    NOTEON 2 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 30
+    WAIT 1
+    NOTEON 1 659 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 164 33
+    WAIT 1
+    NOTEON 2 493 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    NOTEON 3 246 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 39
+    WAIT 1
+    NOTEON 2 369 41
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 123 36
+    WAIT 1
+    NOTEON 2 1975 38
+    WAIT 1
+    NOTEON 3 184 38
+    WAIT 1
+    WAIT 1
+    NOTEON 2 1318 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1479 38
+    WAIT 1
+    NOTEON 3 277 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 1108 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1174 33
+    WAIT 1
+    NOTEON 2 123 37
+    WAIT 1
+    NOTEON 3 184 36
+    WAIT 1
+    NOTEON 4 987 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1108 30
+    WAIT 1
+    NOTEON 2 277 40
+    WAIT 1
+    NOTEON 3 293 34
+    WAIT 1
+    NOTEON 1 880 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 146 34
+    WAIT 1
+    NOTEON 2 783 38
+    WAIT 1
+    NOTEON 3 220 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 698 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 329 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 659 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 349 35
+    WAIT 1
+    NOTEON 3 587 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 38
+    WAIT 1
+    NOTEON 2 146 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 220 38
+    WAIT 1
+    NOTEON 2 659 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 35
+    WAIT 1
+    NOTEON 2 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    NOTEON 3 329 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 36
+    NOTEON 2 174 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 587 32
+    WAIT 1
+    NOTEON 3 261 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 698 38
+    WAIT 1
+    NOTEON 2 391 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 37
+    WAIT 1
+    NOTEON 2 415 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1046 42
+    WAIT 1
+    NOTEON 2 174 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 698 38
+    WAIT 1
+    NOTEON 3 261 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 33
+    WAIT 1
+    NOTEON 2 391 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1174 37
+    NOTEON 2 415 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 33
+    WAIT 1
+    NOTEON 2 174 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 37
+    WAIT 1
+    NOTEON 2 1046 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 40
+    WAIT 1
+    NOTEON 2 1396 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 33
+    WAIT 1
+    NOTEON 2 830 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1046 38
+    WAIT 1
+    NOTEON 2 174 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 37
+    WAIT 1
+    NOTEON 2 1396 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 38
+    NOTEON 2 391 41
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 33
+    WAIT 1
+    NOTEON 2 1661 47
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 36
+    WAIT 1
+    NOTEON 2 130 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 1567 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 26
+    WAIT 1
+    NOTEON 2 233 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1567 36
+    WAIT 1
+    NOTEON 2 391 39
+    WAIT 1
+    NOTEON 3 783 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1567 40
+    WAIT 1
+    WAIT 1
+    NOTEON 2 130 32
+    WAIT 1
+    NOTEON 3 783 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 43
+    WAIT 1
+    WAIT 1
+    NOTEON 2 1567 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 38
+    WAIT 1
+    WAIT 1
+    NOTEON 2 233 30
+    WAIT 1
+    NOTEON 3 1567 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 36
+    WAIT 1
+    WAIT 1
+    NOTEON 2 277 41
+    WAIT 1
+    NOTEON 3 1567 41
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 34
+    WAIT 1
+    WAIT 1
+    NOTEON 3 1567 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 35
+    WAIT 1
+    NOTEON 4 783 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 1567 28
+    WAIT 1
+    WAIT 1
+    NOTEON 3 783 27
+    WAIT 1
+    WAIT 1
+    NOTEON 2 277 33
+    WAIT 1
+    NOTEON 4 1567 26
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 25
+    WAIT 1
+    WAIT 1
+    NOTEON 3 1567 27
+    WAIT 1
+    NOTEON 4 233 22
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 25
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 29
+    WAIT 1
+    WAIT 1
+    NOTEON 2 783 22
+    WAIT 1
+    WAIT 1
+    NOTEON 3 1567 22
+    WAIT 1
+    NOTEON 4 207 26
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 22
+    WAIT 1
+    WAIT 1
+    NOTEON 2 233 27
+    WAIT 1
+    NOTEON 3 1567 21
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 22
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 195 21
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 20
+    WAIT 1
+    NOTEON 3 1567 20
+    WAIT 1
+    NOTEON 4 207 14
+    WAIT 1
+    WAIT 6
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 87 34
+    WAIT 1
+    NOTEON 2 349 38
+    WAIT 1
+    WAIT 2
+    NOTEON 1 261 33
+    WAIT 1
+    NOTEON 3 195 29
+    NOTEON 4 207 27
+    NOTEOFF 1
+    NOTEON 1 130 30
+    WAIT 1
+    WAIT 2
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 87 33
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 26
+    WAIT 1
+    NOTEON 2 130 30
+    NOTEON 3 207 24
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 32
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 36
+    WAIT 1
+    NOTEON 2 130 36
+    WAIT 1
+    WAIT 2
+    NOTEON 2 233 29
+    NOTEON 3 155 30
+    WAIT 1
+    NOTEON 4 261 33
+    NOTEOFF 1
+    NOTEON 1 195 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 130 35
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 29
+    WAIT 1
+    NOTEON 2 155 29
+    WAIT 1
+    NOTEON 3 195 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 29
+    WAIT 1
+    NOTEON 2 415 30
+    NOTEON 3 138 31
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 25
+    WAIT 1
+    NOTEON 3 207 28
+    WAIT 1
+    NOTEON 4 174 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 31
+    WAIT 1
+    NOTEON 2 466 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 77 33
+    WAIT 1
+    NOTEON 2 391 35
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 30
+    WAIT 1
+    NOTEON 3 233 29
+    WAIT 1
+    NOTEON 4 138 27
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 30
+    WAIT 1
+    WAIT 1
+    NOTEON 2 523 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 87 28
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 30
+    WAIT 1
+    NOTEON 3 130 30
+    WAIT 1
+    NOTEON 4 207 24
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 29
+    WAIT 1
+    NOTEON 1 261 32
+    WAIT 1
+    NOTEON 2 65 37
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 30
+    NOTEON 2 164 31
+    WAIT 1
+    NOTEON 3 195 30
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 207 26
+    WAIT 1
+    NOTEON 2 261 31
+    WAIT 1
+    NOTEON 3 87 35
+    WAIT 1
+    NOTEON 4 349 34
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 28
+    WAIT 1
+    NOTEON 2 261 31
+    NOTEON 3 207 24
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 130 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 87 31
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 29
+    NOTEON 3 207 26
+    WAIT 1
+    NOTEON 4 130 25
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 26
+    WAIT 1
+    NOTEON 2 349 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 35
+    NOTEON 2 130 37
+    WAIT 1
+    WAIT 1
+    NOTEON 2 415 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 29
+    WAIT 1
+    NOTEON 3 233 29
+    NOTEON 4 155 27
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 391 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 3 261 34
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 130 36
+    WAIT 1
+    WAIT 2
+    NOTEON 1 233 27
+    WAIT 1
+    NOTEON 2 195 29
+    NOTEON 4 155 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 31
+    WAIT 1
+    NOTEON 2 415 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 33
+    WAIT 1
+    NOTEON 3 116 30
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 2 311 27
+    WAIT 1
+    NOTEON 3 207 29
+    WAIT 1
+    NOTEON 4 174 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 31
+    WAIT 1
+    NOTEON 2 277 30
+    WAIT 1
+    NOTEON 3 415 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 34
+    WAIT 1
+    WAIT 1
+    NOTEON 2 77 36
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 30
+    NOTEON 2 155 27
+    WAIT 1
+    NOTEON 3 311 30
+    NOTEON 4 261 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 30
+    WAIT 1
+    NOTEON 2 391 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 87 37
+    WAIT 1
+    WAIT 2
+    NOTEON 1 207 32
+    WAIT 1
+    NOTEON 2 195 33
+    WAIT 1
+    NOTEON 3 261 29
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 36
+    NOTEON 2 311 33
+    WAIT 1
+    NOTEON 3 207 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 38
+    WAIT 1
+    NOTEON 2 220 34
+    NOTEON 3 261 34
+    WAIT 1
+    NOTEON 4 87 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 130 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 39
+    WAIT 1
+    NOTEON 2 261 41
+    WAIT 1
+    NOTEON 3 349 44
+    NOTEON 4 43 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 261 38
+    NOTEON 2 311 37
+    NOTEON 3 466 35
+    NOTEON 4 77 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 554 29
+    WAIT 1
+    NOTEON 2 277 27
+    WAIT 1
+    NOTEON 3 698 33
+    WAIT 1
+    NOTEON 4 523 31
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 415 28
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 1046 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 932 33
+    WAIT 1
+    WAIT 2
+    NOTEON 1 1244 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 27
+    WAIT 1
+    NOTEON 2 830 30
+    WAIT 1
+    NOTEON 3 311 29
+    WAIT 1
+    NOTEON 4 1046 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 30
+    WAIT 1
+    NOTEON 2 523 31
+    WAIT 1
+    NOTEON 3 932 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 783 29
+    WAIT 1
+    NOTEON 2 830 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 36
+    NOTEON 2 523 30
+    WAIT 1
+    NOTEON 3 261 30
+    WAIT 1
+    NOTEON 4 932 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 30
+    WAIT 1
+    NOTEON 2 830 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1244 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 29
+    WAIT 1
+    NOTEON 2 783 28
+    WAIT 1
+    NOTEON 3 466 35
+    WAIT 1
+    NOTEON 4 622 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 30
+    WAIT 1
+    NOTEON 2 349 33
+    WAIT 1
+    NOTEON 3 622 30
+    NOTEON 4 830 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 33
+    WAIT 1
+    NOTEON 2 415 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 32
+    WAIT 1
+    NOTEON 2 698 36
+    NOTEON 3 277 34
+    WAIT 1
+    NOTEON 4 1046 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 554 32
+    NOTEON 2 932 33
+    WAIT 1
+    NOTEON 3 698 35
+    NOTEON 4 415 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 698 32
+    NOTEON 2 1244 30
+    WAIT 1
+    NOTEON 3 932 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 739 32
+    WAIT 1
+    NOTEON 2 1046 35
+    NOTEON 3 1396 33
+    NOTEON 4 311 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 1244 30
+    WAIT 1
+    NOTEON 2 739 30
+    NOTEON 3 466 33
+    NOTEON 4 369 29
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 932 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1661 29
+    WAIT 1
+    NOTEON 2 1567 33
+    NOTEON 3 415 30
+    WAIT 1
+    NOTEON 4 523 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1046 23
+    WAIT 1
+    WAIT 1
+    NOTEON 2 349 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 35
+    WAIT 1
+    NOTEON 2 349 37
+    NOTEON 3 466 34
+    WAIT 1
+    NOTEON 4 233 41
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 207 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 40
+    WAIT 1
+    NOTEON 2 155 40
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 130 33
+    WAIT 1
+    NOTEON 2 523 40
+    WAIT 1
+    NOTEON 3 311 39
+    NOTEON 4 391 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 65 40
+    WAIT 2
+    NOTEON 2 466 37
+    WAIT 1
+    NOTEON 3 261 40
+    NOTEON 4 311 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 36
+    WAIT 1
+    WAIT 1
+    NOTEON 2 311 34
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 523 38
+    WAIT 1
+    NOTEON 2 349 40
+    NOTEON 3 69 38
+    WAIT 1
+    NOTEON 4 277 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 31
+    WAIT 1
+    NOTEON 2 349 41
+    NOTEON 3 466 37
+    NOTEON 4 103 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 622 36
+    NOTEON 2 349 41
+    NOTEON 3 466 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 77 38
+    WAIT 1
+    NOTEON 2 523 41
+    WAIT 1
+    NOTEON 3 311 38
+    NOTEON 4 415 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 466 32
+    WAIT 1
+    NOTEON 2 277 38
+    NOTEON 3 116 38
+    WAIT 1
+    NOTEON 4 391 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 391 40
+    WAIT 1
+    NOTEON 2 415 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 311 46
+    WAIT 1
+    NOTEON 2 261 38
+    NOTEON 3 466 45
+    NOTEON 4 65 43
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 261 40
+    WAIT 1
+    NOTEON 2 311 39
+    NOTEON 3 415 38
+    NOTEON 4 130 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 38
+    WAIT 1
+    NOTEON 2 466 39
+    NOTEON 3 391 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 87 40
+    WAIT 1
+    NOTEON 2 233 40
+    NOTEON 3 311 33
+    NOTEON 4 391 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 415 35
+    WAIT 1
+    NOTEON 2 130 40
+    WAIT 1
+    NOTEON 3 261 37
+    NOTEON 4 311 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 36
+    WAIT 1
+    NOTEON 2 207 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 92 34
+    WAIT 1
+    NOTEON 2 277 34
+    NOTEON 3 349 39
+    WAIT 1
+    NOTEON 4 466 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 138 40
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 33
+    NOTEON 2 184 42
+    WAIT 1
+    NOTEON 3 523 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 45
+    WAIT 1
+    NOTEON 2 466 40
+    WAIT 1
+    NOTEON 3 554 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 35
+    WAIT 1
+    NOTEON 2 622 35
+    NOTEON 3 261 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 38
+    NOTEON 2 698 36
+    WAIT 1
+    NOTEON 3 466 35
+    NOTEON 4 277 35
+    WAIT 1
+    WAIT 1
+    NOTEON 4 277 42
+    WAIT 1
+    WAIT 1
+    NOTEON 4 415 31
+    WAIT 1
+    WAIT 1
+    NOTEON 4 277 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 36
+    WAIT 1
+    NOTEON 2 261 39
+    WAIT 1
+    NOTEON 3 349 37
+    NOTEON 4 698 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 39
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 36
+    WAIT 1
+    NOTEON 2 932 36
+    WAIT 1
+    NOTEON 3 155 40
+    WAIT 1
+    NOTEON 4 622 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 932 36
+    WAIT 1
+    NOTEON 2 466 32
+    NOTEON 3 87 31
+    WAIT 1
+    NOTEON 4 523 34
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 698 37
+    WAIT 1
+    WAIT 2
+    NOTEON 3 261 30
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 233 29
+    NOTEOFF 1
+    NOTEON 1 174 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 174 32
+    WAIT 1
+    NOTEON 2 195 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 24
+    WAIT 1
+    NOTEON 2 87 34
+    WAIT 1
+    NOTEON 3 880 39
+    NOTEON 4 523 35
+    NOTEOFF 1
+    NOTEON 1 622 35
+    WAIT 1
+    WAIT 1
+    NOTEON 2 130 35
+    WAIT 1
+    WAIT 1
+    NOTEON 2 220 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 233 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 37
+    WAIT 1
+    NOTEON 2 440 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 277 41
+    NOTEON 2 349 42
+    NOTEON 3 523 43
+    NOTEON 4 69 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 36
+    NOTEON 2 349 42
+    NOTEON 3 466 37
+    WAIT 1
+    NOTEON 4 103 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 622 36
+    NOTEON 2 349 35
+    NOTEON 3 466 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 311 40
+    NOTEON 2 415 40
+    WAIT 1
+    NOTEON 3 523 43
+    NOTEON 4 77 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 42
+    NOTEON 2 391 40
+    NOTEON 3 466 35
+    WAIT 1
+    NOTEON 4 116 46
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 391 39
+    WAIT 1
+    NOTEON 2 415 43
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 311 48
+    NOTEON 2 466 48
+    WAIT 1
+    NOTEON 3 261 40
+    NOTEON 4 65 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 261 40
+    NOTEON 2 311 43
+    NOTEON 3 415 38
+    NOTEON 4 130 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 38
+    NOTEON 2 622 38
+    WAIT 1
+    NOTEON 3 391 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 45
+    WAIT 1
+    NOTEON 2 311 25
+    NOTEON 3 391 38
+    NOTEON 4 87 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 415 36
+    WAIT 1
+    NOTEON 2 261 38
+    NOTEON 3 311 38
+    NOTEON 4 130 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 35
+    WAIT 1
+    NOTEON 2 207 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 40
+    WAIT 1
+    NOTEON 2 277 38
+    NOTEON 3 349 42
+    WAIT 1
+    NOTEON 4 69 42
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 35
+    WAIT 1
+    NOTEON 2 349 43
+    NOTEON 3 103 38
+    WAIT 1
+    NOTEON 4 466 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 349 37
+    WAIT 1
+    NOTEON 2 622 37
+    NOTEON 3 466 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 39
+    WAIT 1
+    NOTEON 2 523 42
+    NOTEON 3 698 39
+    NOTEON 4 77 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 369 38
+    NOTEON 2 622 38
+    NOTEON 3 233 36
+    NOTEON 4 184 35
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 466 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 830 36
+    WAIT 1
+    NOTEON 2 783 37
+    NOTEON 3 261 35
+    NOTEON 4 207 31
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 29
+    WAIT 1
+    WAIT 1
+    NOTEON 2 87 40
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 311 42
+    NOTEON 2 233 36
+    NOTEON 3 174 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 155 31
+    WAIT 1
+    NOTEON 2 65 40
+    WAIT 1
+    NOTEON 3 195 38
+    NOTEON 4 261 44
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 97 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 43
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 38
+    WAIT 1
+    WAIT 1
+    NOTEON 1 155 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 277 32
+    NOTEON 2 349 38
+    NOTEON 3 523 38
+    NOTEON 4 69 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 349 40
+    NOTEON 2 466 37
+    WAIT 1
+    NOTEON 3 277 37
+    NOTEON 4 103 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 622 35
+    WAIT 1
+    NOTEON 2 349 38
+    NOTEON 3 466 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 37
+    NOTEON 2 77 37
+    WAIT 1
+    NOTEON 3 311 38
+    NOTEON 4 415 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 277 40
+    WAIT 1
+    NOTEON 2 466 31
+    WAIT 1
+    NOTEON 3 391 40
+    NOTEON 4 116 44
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 391 38
+    WAIT 1
+    NOTEON 2 415 42
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 42
+    NOTEON 2 311 45
+    WAIT 1
+    NOTEON 3 466 45
+    WAIT 1
+    NOTEON 4 65 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 311 37
+    NOTEON 2 130 37
+    WAIT 1
+    NOTEON 3 261 37
+    NOTEON 4 415 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 37
+    WAIT 1
+    NOTEON 2 466 38
+    NOTEON 3 391 39
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 44
+    WAIT 1
+    NOTEON 2 391 41
+    NOTEON 3 87 39
+    WAIT 1
+    NOTEON 4 311 24
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 130 39
+    WAIT 1
+    NOTEON 2 415 36
+    WAIT 1
+    NOTEON 3 261 38
+    NOTEON 4 311 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 35
+    WAIT 1
+    NOTEON 2 207 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 195 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 277 38
+    NOTEON 2 466 35
+    WAIT 1
+    NOTEON 3 349 36
+    WAIT 1
+    NOTEON 4 92 41
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 138 37
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 38
+    WAIT 1
+    NOTEON 2 523 39
+    WAIT 1
+    NOTEON 3 184 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 37
+    WAIT 1
+    NOTEON 2 466 45
+    WAIT 1
+    NOTEON 3 554 44
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 36
+    WAIT 1
+    NOTEON 2 523 37
+    NOTEON 3 261 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 369 38
+    WAIT 1
+    NOTEON 2 466 38
+    NOTEON 3 698 36
+    NOTEON 4 277 32
+    WAIT 1
+    WAIT 1
+    NOTEON 4 277 39
+    WAIT 1
+    WAIT 1
+    NOTEON 4 415 32
+    WAIT 1
+    WAIT 1
+    NOTEON 4 277 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 35
+    NOTEON 2 261 41
+    WAIT 1
+    NOTEON 3 349 38
+    WAIT 1
+    NOTEON 4 698 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 233 46
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 33
+    WAIT 1
+    NOTEON 2 932 39
+    NOTEON 3 155 44
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 932 35
+    WAIT 1
+    NOTEON 2 523 39
+    NOTEON 3 87 40
+    WAIT 1
+    NOTEON 4 466 36
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 698 41
+    WAIT 1
+    WAIT 2
+    NOTEON 3 261 31
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 233 30
+    NOTEOFF 1
+    NOTEON 1 174 33
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 195 30
+    WAIT 1
+    NOTEON 2 174 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 28
+    WAIT 1
+    NOTEON 2 523 35
+    WAIT 1
+    NOTEON 3 622 35
+    WAIT 1
+    NOTEON 4 880 38
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 87 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 130 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 220 33
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 233 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 27
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 20
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1108 25
+    NOTEON 2 1864 24
+    NOTEON 3 698 34
+    WAIT 1
+    NOTEON 4 1046 25
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 1396 28
+    WAIT 1
+    WAIT 1
+    NOTEON 3 622 25
+    WAIT 1
+    WAIT 1
+    NOTEON 3 349 25
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 1046 22
+    WAIT 1
+    NOTEON 2 698 22
+    WAIT 1
+    NOTEON 3 1244 22
+    WAIT 1
+    NOTEON 4 1760 24
+    WAIT 4
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 155 24
+    WAIT 1
+    NOTEON 2 174 26
+    NOTEON 3 261 25
+    WAIT 12
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 25
+    WAIT 1
+    NOTEON 2 466 30
+    WAIT 1
+    NOTEON 3 195 29
+    WAIT 1
+    NOTEON 4 622 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 30
+    WAIT 1
+    NOTEON 4 466 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    NOTEON 2 391 26
+    WAIT 1
+    NOTEON 4 466 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    NOTEON 2 391 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    NOTEON 2 293 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 28
+    WAIT 1
+    NOTEON 4 466 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 34
+    WAIT 1
+    NOTEON 2 195 28
+    WAIT 1
+    NOTEON 3 622 36
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 33
+    WAIT 1
+    NOTEON 3 587 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 31
+    WAIT 1
+    NOTEON 3 391 29
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 29
+    WAIT 1
+    WAIT 1
+    NOTEON 3 293 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    NOTEON 3 391 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 28
+    WAIT 1
+    NOTEON 2 415 32
+    WAIT 1
+    NOTEON 3 174 30
+    WAIT 1
+    NOTEON 4 622 22
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 30
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 29
+    WAIT 1
+    NOTEON 4 415 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 36
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    NOTEON 2 391 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 30
+    WAIT 1
+    WAIT 1
+    NOTEON 2 523 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 30
+    WAIT 1
+    NOTEON 2 391 28
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 29
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 32
+    WAIT 1
+    WAIT 1
+    NOTEON 1 261 31
+    WAIT 1
+    NOTEON 2 391 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 415 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    NOTEON 2 146 31
+    WAIT 1
+    NOTEON 3 523 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 220 25
+    WAIT 1
+    NOTEON 3 349 31
+    WAIT 1
+    WAIT 1
+    NOTEON 3 391 30
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 33
+    WAIT 1
+    NOTEON 3 220 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 349 31
+    NOTEON 2 195 31
+    WAIT 1
+    NOTEON 3 587 33
+    WAIT 1
+    NOTEON 4 493 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 293 30
+    WAIT 1
+    NOTEON 3 349 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 493 31
+    WAIT 1
+    WAIT 1
+    NOTEON 1 698 36
+    WAIT 1
+    NOTEON 2 174 31
+    NOTEON 3 293 33
+    WAIT 1
+    NOTEON 4 246 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 622 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 30
+    WAIT 1
+    NOTEON 2 523 28
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 32
+    WAIT 1
+    NOTEON 2 195 28
+    WAIT 1
+    NOTEON 3 1244 35
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 31
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 40
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    WAIT 1
+    NOTEON 2 195 35
+    WAIT 1
+    NOTEON 3 1174 38
+    WAIT 1
+    WAIT 1
+    NOTEON 2 293 34
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 34
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 34
+    WAIT 1
+    NOTEON 2 1108 33
+    WAIT 1
+    NOTEON 3 195 25
+    WAIT 1
+    WAIT 1
+    NOTEON 3 293 36
+    WAIT 1
+    WAIT 1
+    NOTEON 3 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 41
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 34
+    WAIT 1
+    NOTEON 2 195 29
+    WAIT 1
+    NOTEON 3 1174 35
+    WAIT 1
+    NOTEON 2 293 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 440 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 466 35
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 30
+    WAIT 1
+    NOTEON 2 880 35
+    WAIT 1
+    NOTEON 3 1244 35
+    WAIT 1
+    NOTEON 4 195 32
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 33
+    NOTEON 2 830 38
+    WAIT 1
+    NOTEON 3 1174 38
+    WAIT 1
+    NOTEON 4 195 32
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 38
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 32
+    WAIT 1
+    WAIT 1
+    NOTEON 4 440 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 587 31
+    WAIT 1
+    NOTEON 2 830 34
+    WAIT 1
+    NOTEON 3 1108 38
+    WAIT 1
+    NOTEON 4 195 29
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 32
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 440 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 554 38
+    WAIT 1
+    NOTEON 2 830 35
+    NOTEON 3 1174 40
+    WAIT 1
+    NOTEON 4 195 40
+    WAIT 1
+    NOTEOFF 1
+    NOTEON 1 277 30
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 391 30
+    WAIT 1
+    NOTEON 2 440 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 622 30
+    WAIT 1
+    NOTEON 2 830 35
+    NOTEON 3 1046 37
+    WAIT 1
+    NOTEON 4 174 35
+    WAIT 1
+    WAIT 1
+    NOTEON 4 261 35
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 35
+    WAIT 1
+    WAIT 1
+    NOTEON 2 415 37
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 523 31
+    WAIT 1
+    NOTEON 2 698 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 783 30
+    WAIT 1
+    NOTEON 2 207 27
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    NOTEON 1 1046 37
+    WAIT 1
+    NOTEON 2 659 35
+    NOTEON 3 523 31
+    NOTEON 4 329 37
+    NOTEOFF 1
+    NOTEON 1 391 30
+    NOTEOFF 1
+    NOTEON 1 233 29
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 932 35
+    NOTEON 2 466 32
+    WAIT 1
+    NOTEON 3 130 34
+    NOTEON 4 195 34
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 1
+    WAIT 2
+    NOTEON 1 415 29
+    WAIT 1
+    NOTEON 2 174 33
+    WAIT 1
+    NOTEON 3 523 33
+    WAIT 1
+    NOTEON 4 783 36
+    WAIT 1
+    WAIT 1
+    NOTEON 2 261 33
+    WAIT 1
+    WAIT 1
+    NOTEON 2 311 37
+    WAIT 1
+    WAIT 1
+    NOTEON 2 391 31
+    WAIT 2
+    WAIT 1
+    WAIT 1
+    WAIT 3
+    NOTEON 1 87 33
+    WAIT 1
+    NOTEON 2 261 37
+    NOTEON 3 195 35
+    NOTEON 4 207 33
+    WAIT 18
+    WAIT 1
+    JUMP start
