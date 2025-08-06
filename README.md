@@ -19,21 +19,21 @@ mimics the [MIDI format](https://en.wikipedia.org/wiki/MIDI).
 
 ```asm
 LABEL start
-    NOTEON 1 261 100
+    NOTEON 1 65 100
     WAIT 2
-    NOTEOFF 1
+    NOTEOFF 1 65
 
-    NOTEON 2 329 100
+    NOTEON 2 66 100
     WAIT 2
-    NOTEOFF 2
+    NOTEOFF 2 66
 
-    NOTEON 3 392 100
+    NOTEON 3 67 100
     WAIT 2
-    NOTEOFF 3
+    NOTEOFF 3 67
 
-    NOTEON 4 523 100
+    NOTEON 4 68 100
     WAIT 2
-    NOTEOFF 4
+    NOTEOFF 4 68
 
     JUMP start
 ```
@@ -43,14 +43,20 @@ X is on/off) yet. This is purely intented as a simple target for simple audio
 descriptions such as the MIDI format or most
 [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation).
 
+# Notes
+
+There are 128 addressable audio output (0 to 127), the frequency follows:
+
+$$f(i) = 440 Hz \times 2^{(i-69)/12}$$
+
 # Instruction Set
 
 ```
-    8 bit          8 bits     8bits       8 bits
-NOTEON  [chan]  [       freq         ]   [  vel  ]
+    8 bit           8 bits        8bits        8 bits
+NOTEON  [chan]   [ note 0-127 ][     vel    ]
 NOTEOFF [chan]
-WAIT            [       delay        ]
-JUMP            [       label        ]
+WAIT             [          delay           ]
+JUMP             [          label           ]
 NOOP
 ```
 

@@ -1,4038 +1,5435 @@
 LABEL start
     WAIT 3
-    NOTEON 1 391 25
-    WAIT 1
-    NOTEON 2 466 30
-    WAIT 1
-    NOTEON 3 195 29
-    WAIT 1
-    NOTEON 4 622 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 28
-    WAIT 1
-    WAIT 1
-    NOTEON 2 587 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 29
-    WAIT 1
-    WAIT 1
-    NOTEON 2 554 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 28
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 27
-    WAIT 1
-    NOTEON 2 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 29
-    WAIT 1
-    NOTEON 2 391 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 32
-    WAIT 1
-    NOTEON 2 195 29
-    WAIT 1
-    NOTEON 3 622 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 554 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 587 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    NOTEON 2 415 32
-    WAIT 1
-    NOTEON 3 174 28
-    WAIT 1
-    NOTEON 4 622 24
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 29
-    WAIT 1
-    NOTEON 4 415 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 32
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 32
-    WAIT 1
-    NOTEON 1 391 27
-    WAIT 1
-    WAIT 1
-    NOTEON 2 415 25
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 26
-    WAIT 1
-    WAIT 1
-    NOTEON 2 415 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 30
-    WAIT 1
-    NOTEON 2 146 28
-    WAIT 1
-    NOTEON 3 523 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 220 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 349 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 32
-    WAIT 1
-    NOTEON 3 220 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    NOTEON 2 391 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    NOTEON 2 587 32
-    NOTEON 3 195 31
-    WAIT 1
-    NOTEON 4 493 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 2 349 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 493 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 174 32
-    NOTEON 2 293 31
-    WAIT 1
-    NOTEON 3 698 35
-    NOTEON 4 246 32
-    WAIT 1
-    WAIT 1
-    NOTEON 4 622 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 29
-    WAIT 1
-    NOTEON 2 523 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 29
-    NOTEON 2 195 27
-    WAIT 1
-    NOTEON 3 1244 38
-    WAIT 1
-    NOTEON 4 293 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 466 24
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 36
-    WAIT 1
-    NOTEON 2 1174 39
-    WAIT 1
-    NOTEON 3 195 31
-    WAIT 1
-    WAIT 1
-    NOTEON 3 293 27
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 38
-    WAIT 1
-    NOTEON 2 195 31
-    WAIT 1
-    NOTEON 3 1108 38
-    WAIT 1
-    NOTEON 4 293 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 34
-    NOTEON 2 195 31
-    WAIT 1
-    NOTEON 3 1174 36
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 36
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 31
-    WAIT 1
-    NOTEON 2 880 33
-    WAIT 1
-    NOTEON 3 1244 36
-    NOTEON 4 195 27
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 31
-    WAIT 1
-    NOTEON 1 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 38
-    WAIT 1
-    NOTEON 2 587 37
-    NOTEON 3 1174 37
-    WAIT 1
-    NOTEON 4 195 32
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 32
-    WAIT 1
-    NOTEON 4 440 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 31
-    WAIT 1
-    NOTEON 2 830 33
-    WAIT 1
-    NOTEON 3 1108 36
-    WAIT 1
-    NOTEON 4 195 37
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 34
-    WAIT 1
-    NOTEON 2 830 30
-    WAIT 1
-    NOTEON 3 1174 38
-    WAIT 1
-    NOTEON 4 195 37
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 33
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 30
-    WAIT 1
-    NOTEON 2 830 33
-    NOTEON 3 1046 37
-    WAIT 1
-    NOTEON 4 174 26
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 261 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 29
-    WAIT 1
-    NOTEON 2 698 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 207 24
-    WAIT 1
-    NOTEON 3 783 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 329 33
-    WAIT 1
-    NOTEON 2 523 29
-    NOTEON 3 233 28
-    WAIT 1
-    NOTEON 4 1046 36
-    NOTEOFF 1
-    NOTEON 1 391 29
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 659 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 67 25
+    NOOP
+    NOTEON 1 70 30
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 75 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 70 28
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 32
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 27
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 70 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 73 30
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 28
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 70 27
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 29
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 27
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 70 27
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 69 32
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 75 29
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 27
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 73 30
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 67 27
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 69 31
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEON 1 68 32
+    NOOP
+    NOTEON 1 53 28
+    NOOP
+    NOTEON 1 75 24
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEON 1 68 27
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 32
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 32
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 27
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 68 25
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 29
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 67 26
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 28
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 67
+    NOTEON 1 68 28
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 65 30
+    NOOP
+    NOTEON 1 50 28
+    NOOP
+    NOTEON 1 72 32
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 57 30
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 72 32
+    NOOP
+    NOTEON 1 57 28
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 50
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEON 1 74 32
+    NOTEON 1 55 31
+    NOOP
+    NOTEON 1 71 30
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 71
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 65 32
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 71 29
+    NOOP
+    NOTEOFF 1 71
+    NOOP
+    NOTEON 1 53 32
+    NOTEON 1 62 31
+    NOOP
+    NOTEON 1 77 35
+    NOTEON 1 59 32
+    NOOP
+    NOTEOFF 1 59
+    NOOP
+    NOTEON 1 75 31
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 74 29
+    NOOP
+    NOTEON 1 72 34
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 75 29
+    NOTEON 1 55 27
+    NOOP
+    NOTEON 1 87 38
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 35
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEON 1 70 24
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 36
+    NOOP
+    NOTEON 1 86 39
+    NOOP
+    NOTEON 1 55 31
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 27
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 70 35
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 73 38
+    NOOP
+    NOTEON 1 55 31
+    NOOP
+    NOTEON 1 85 38
+    NOOP
+    NOTEON 1 62 34
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 39
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 70 30
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 34
+    NOTEON 1 55 31
+    NOOP
+    NOTEON 1 86 36
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 36
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 79 31
+    NOOP
+    NOTEON 1 81 33
+    NOOP
+    NOTEON 1 87 36
+    NOTEON 1 55 27
+    NOOP
+    NOTEON 1 61 37
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 67
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 79
+    NOTEOFF 1 81
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 80 38
+    NOOP
+    NOTEON 1 74 37
+    NOTEON 1 86 37
+    NOOP
+    NOTEON 1 55 32
+    NOOP
+    NOTEON 1 61 39
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 32
+    NOOP
+    NOTEON 1 69 34
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEON 1 80 33
+    NOOP
+    NOTEON 1 85 36
+    NOOP
+    NOTEON 1 55 37
+    NOOP
+    NOTEON 1 61 34
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 74
+    NOTEON 1 67 33
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 69 31
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 73 34
+    NOOP
+    NOTEON 1 80 30
+    NOOP
+    NOTEON 1 86 38
+    NOOP
+    NOTEON 1 55 37
+    NOOP
+    NOTEON 1 61 31
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 75 30
+    NOOP
+    NOTEON 1 80 33
+    NOTEON 1 84 37
+    NOOP
+    NOTEON 1 53 26
+    NOOP
+    NOTEON 1 60 38
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 36
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 72 29
+    NOOP
+    NOTEON 1 77 30
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 56 24
+    NOOP
+    NOTEON 1 79 31
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 64 33
+    NOOP
+    NOTEON 1 72 29
+    NOTEON 1 58 28
+    NOOP
+    NOTEON 1 84 36
+    NOTEON 1 67 29
+    NOOP
+    NOTEON 1 76 33
+    NOOP
+    NOTEOFF 1 76
+    NOOP
+    NOTEOFF 1 84
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 64
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 67
     WAIT 2
-    NOTEON 1 932 34
-    WAIT 1
-    NOTEON 2 466 34
-    WAIT 1
-    NOTEON 3 130 33
-    NOTEON 4 195 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 82 34
+    NOOP
+    NOTEON 1 70 34
+    NOOP
+    NOTEON 1 48 33
+    NOTEON 1 55 33
+    NOOP
+    NOTEOFF 1 82
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 55
     WAIT 3
-    NOTEON 1 415 29
-    WAIT 1
-    NOTEON 2 174 31
-    WAIT 1
-    NOTEON 3 783 36
-    NOTEON 4 523 37
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 311 35
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 68 29
+    NOOP
+    NOTEON 1 53 31
+    NOOP
+    NOTEON 1 79 36
+    NOTEON 1 72 37
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 63 35
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEON 1 67 38
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 68
+    NOTEOFF 1 67
     WAIT 3
-    NOTEON 1 87 33
-    WAIT 1
-    NOTEON 2 261 35
-    NOTEON 3 207 30
-    WAIT 1
-    NOTEON 4 195 32
+    NOTEON 1 41 33
+    NOOP
+    NOTEON 1 60 35
+    NOTEON 1 56 30
+    NOOP
+    NOTEON 1 55 32
     WAIT 2
-    WAIT 1
-    WAIT 1
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 41
     WAIT 4
-    NOTEON 1 130 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 87 33
-    WAIT 1
-    NOTEON 2 349 36
-    WAIT 1
+    NOTEON 1 48 33
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 41 33
+    NOOP
+    NOTEON 1 65 36
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 195 30
-    WAIT 1
-    NOTEON 3 261 33
-    WAIT 1
-    NOTEON 4 207 27
-    NOTEOFF 1
-    NOTEON 1 130 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 55 30
+    NOOP
+    NOTEON 1 60 33
+    NOOP
+    NOTEON 1 56 27
+    NOTEON 1 48 29
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 55
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 48
     WAIT 3
-    NOTEON 1 87 32
-    WAIT 1
+    NOTEON 1 41 32
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 130 33
-    WAIT 1
-    NOTEON 2 195 33
-    NOTEON 4 207 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 34
-    WAIT 1
-    NOTEON 2 130 30
-    WAIT 1
+    NOTEON 1 48 33
+    NOOP
+    NOTEON 1 55 33
+    NOTEON 1 56 27
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 60 29
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 65 30
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEON 1 48 30
+    NOOP
+    NOTEOFF 1 48
     WAIT 2
-    NOTEON 2 261 33
-    NOTEON 3 233 28
-    WAIT 1
-    NOTEON 4 195 31
-    NOTEOFF 1
-    NOTEON 1 155 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 60 33
+    NOTEON 1 58 28
+    NOOP
+    NOTEON 1 55 31
+    NOTEON 1 51 27
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 51
     WAIT 3
-    NOTEON 1 130 33
-    WAIT 1
+    NOTEON 1 48 33
+    NOOP
+    NOTEOFF 1 48
     WAIT 2
-    NOTEON 1 155 28
-    WAIT 1
-    NOTEON 3 195 30
-    NOTEON 4 233 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 30
-    WAIT 1
-    NOTEON 2 138 30
-    WAIT 1
+    NOTEON 1 51 28
+    NOOP
+    NOTEON 1 55 30
+    NOTEON 1 58 28
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 60 27
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEON 1 49 30
+    NOOP
+    NOTEOFF 1 49
     WAIT 2
-    NOTEON 2 233 29
-    WAIT 1
-    NOTEON 3 207 29
-    WAIT 1
-    NOTEON 4 174 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 30
-    WAIT 1
-    NOTEON 2 466 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 77 32
-    WAIT 1
-    NOTEON 2 391 33
-    WAIT 1
+    NOTEON 1 58 29
+    NOOP
+    NOTEON 1 56 29
+    NOOP
+    NOTEON 1 53 33
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 56
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEON 1 70 28
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 68
+    NOTEON 1 39 32
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEOFF 1 39
     WAIT 2
-    NOTEON 1 233 27
-    WAIT 1
-    NOTEON 3 195 30
-    NOTEON 4 138 25
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    NOTEON 1 622 30
-    WAIT 1
-    NOTEON 2 523 25
-    WAIT 1
-    WAIT 1
-    NOTEON 1 87 30
-    WAIT 1
+    NOTEON 1 58 27
+    NOOP
+    NOTEON 1 55 30
+    NOTEON 1 49 25
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 67 30
+    NOTEOFF 1 49
+    NOOP
+    NOTEOFF 1 67
+    NOTEON 1 75 30
+    NOOP
+    NOTEON 1 72 25
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 41 30
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 195 29
-    NOTEON 3 207 24
-    NOTEON 4 130 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 29
-    WAIT 1
-    NOTEON 2 261 31
-    WAIT 1
-    WAIT 1
+    NOTEON 1 55 29
+    NOTEON 1 56 24
+    NOTEON 1 48 31
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 58 29
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 36 33
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 36
+    WAIT 2
+    NOTEON 1 58 30
+    NOOP
+    NOTEON 1 52 32
+    NOOP
+    NOTEON 1 55 31
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 52
+    WAIT 3
+    NOTEON 1 56 25
+    NOOP
+    NOTEON 1 60 33
+    NOOP
+    NOTEOFF 1 56
+    NOOP
     NOTEON 1 65 33
-    WAIT 1
-    WAIT 1
+    NOOP
+    NOTEON 1 41 36
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 233 30
-    WAIT 1
-    NOTEON 2 164 32
-    WAIT 1
-    NOTEON 3 195 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 60 30
+    NOTEON 1 56 27
+    NOTEON 1 48 30
+    NOOP
+    NOTEON 1 55 30
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 48
     WAIT 3
-    NOTEON 1 207 25
-    WAIT 1
-    NOTEON 2 261 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 33
-    WAIT 1
-    NOTEON 3 87 36
-    WAIT 1
-    WAIT 1
+    NOTEON 1 41 33
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    WAIT 1
-    NOTEON 1 261 30
-    NOTEON 2 207 27
-    NOTEON 3 130 30
-    WAIT 1
-    NOTEON 4 195 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 3
-    NOTEON 2 87 33
-    WAIT 1
+    NOTEON 1 48 29
+    NOOP
+    NOTEON 1 56 25
+    NOTEON 1 55 29
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 65 33
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 60 27
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 65 33
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEON 1 48 30
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 67 32
+    NOTEON 1 58 29
+    NOOP
+    NOTEON 1 55 31
+    NOTEON 1 51 28
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 67
+    NOTEON 1 60 30
     WAIT 2
-    NOTEON 2 130 29
-    WAIT 1
-    NOTEON 3 207 25
-    NOTEON 4 195 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 349 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 33
-    WAIT 1
-    NOTEON 2 391 33
-    WAIT 1
-    NOTEON 3 130 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 30
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 32
-    NOTEON 3 233 29
-    WAIT 1
-    NOTEON 4 195 31
-    NOTEOFF 1
-    NOTEON 1 155 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 30
+    NOTEON 1 48 34
+    NOOP
+    NOTEOFF 1 48
     WAIT 2
-    NOTEON 2 130 34
-    WAIT 1
+    NOTEON 1 58 27
+    NOOP
+    NOTEON 1 55 31
+    NOTEON 1 51 27
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 46 29
+    NOOP
+    NOTEON 1 70 34
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 46
     WAIT 2
-    NOTEON 2 233 27
-    WAIT 1
-    NOTEON 3 195 31
-    NOTEON 4 155 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    NOTEON 2 415 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 116 29
-    WAIT 1
-    NOTEON 3 466 34
-    WAIT 1
-    WAIT 1
+    NOTEON 1 56 28
+    NOOP
+    NOTEON 1 63 29
+    NOTEON 1 53 30
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEON 1 61 29
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 39 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 39
     WAIT 2
-    NOTEON 1 207 28
-    WAIT 1
-    NOTEON 2 311 29
-    NOTEON 4 174 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 31
-    WAIT 1
-    NOTEON 2 277 29
-    WAIT 1
-    NOTEON 3 415 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 29
-    WAIT 1
-    WAIT 1
-    NOTEON 2 77 30
-    WAIT 1
-    WAIT 1
+    NOTEON 1 55 28
+    NOOP
+    NOTEON 1 63 30
+    NOTEON 1 51 26
+    NOTEON 1 60 30
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 51
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 65 32
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 58 31
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 65 32
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 41 31
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 195 28
-    WAIT 1
-    NOTEON 2 311 30
-    NOTEON 3 155 26
-    NOTEON 4 261 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 31
-    WAIT 1
-    NOTEON 2 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 87 31
-    WAIT 1
+    NOTEON 1 60 35
+    NOOP
+    NOTEON 1 56 30
+    NOOP
+    NOTEON 1 55 31
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 60
     WAIT 2
-    NOTEON 1 261 35
-    WAIT 1
-    NOTEON 2 207 30
-    WAIT 1
-    NOTEON 3 195 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 56 33
+    NOOP
+    NOTEON 1 55 34
+    NOTEON 1 63 31
+    NOOP
+    NOTEOFF 1 56
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEON 1 65 37
+    NOOP
+    NOTEON 1 60 38
+    NOTEON 1 57 37
+    NOTEON 1 41 35
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEON 1 48 36
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 60 40
+    NOOP
+    NOTEON 1 65 41
+    NOTEON 1 69 40
+    NOTEON 1 29 38
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 29
     WAIT 2
-    NOTEON 1 207 33
-    WAIT 1
-    NOTEON 2 195 34
-    NOTEON 3 311 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 37
-    WAIT 1
-    NOTEON 2 261 38
-    NOTEON 3 220 37
-    NOTEON 4 87 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 130 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 40
-    WAIT 1
-    NOTEON 2 349 41
-    NOTEON 3 440 40
-    NOTEON 4 43 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 63 37
+    NOOP
+    NOTEON 1 60 34
+    NOTEON 1 70 36
+    NOTEON 1 39 36
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 39
+    NOOP
+    NOTEON 1 37 38
+    NOOP
+    NOTEON 1 61 43
+    NOTEON 1 65 42
+    NOTEON 1 72 46
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 37
     WAIT 2
-    NOTEON 1 311 37
-    WAIT 1
-    NOTEON 2 261 34
-    NOTEON 3 466 36
-    NOTEON 4 77 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 69 38
-    WAIT 1
-    NOTEON 2 277 43
-    NOTEON 3 349 42
-    NOTEON 4 523 46
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 61 38
+    NOTEON 1 44 43
+    NOOP
+    NOTEON 1 65 41
+    NOTEON 1 70 34
+    NOOP
+    NOTEOFF 1 65
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
     WAIT 2
-    NOTEON 1 277 38
-    NOTEON 2 103 43
-    WAIT 1
-    NOTEON 3 349 41
-    NOTEON 4 466 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 65 38
+    NOOP
+    NOTEON 1 75 38
+    NOTEON 1 70 40
+    NOOP
+    NOTEOFF 1 75
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 63 37
+    NOTEON 1 72 40
+    NOOP
+    NOTEON 1 68 39
+    NOTEON 1 39 38
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 39
     WAIT 2
-    NOTEON 1 349 38
-    WAIT 1
-    NOTEON 2 622 38
-    NOTEON 3 466 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 311 37
-    NOTEON 2 523 40
-    WAIT 1
-    NOTEON 3 415 39
-    NOTEON 4 77 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 61 33
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 67 39
+    NOTEON 1 46 38
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 46
     WAIT 2
-    NOTEON 1 277 33
-    WAIT 1
-    NOTEON 2 466 36
-    WAIT 1
-    NOTEON 3 391 39
-    NOTEON 4 116 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 67 38
+    NOOP
+    NOTEON 1 68 38
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 70 44
+    NOOP
+    NOTEON 1 63 48
+    NOTEON 1 60 42
+    NOTEON 1 36 42
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 36
     WAIT 2
-    NOTEON 1 391 38
-    WAIT 1
-    NOTEON 2 415 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 44
-    WAIT 1
-    NOTEON 2 311 48
-    NOTEON 3 261 42
-    NOTEON 4 65 42
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 68 38
+    NOTEON 1 48 36
+    NOOP
+    NOTEON 1 60 40
+    NOTEON 1 63 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 36
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 75 38
+    NOTEON 1 67 40
+    NOOP
+    NOTEON 1 70 38
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 58 43
+    NOTEON 1 67 39
+    NOTEON 1 41 39
+    NOOP
+    NOTEON 1 63 34
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEOFF 1 63
+    NOTEOFF 1 67
     WAIT 2
-    NOTEON 1 415 38
-    NOTEON 2 130 36
-    WAIT 1
-    NOTEON 3 261 40
-    NOTEON 4 311 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 38
-    NOTEON 2 391 40
-    WAIT 1
-    NOTEON 3 466 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 43
-    NOTEON 2 391 39
-    NOTEON 3 87 39
-    WAIT 1
-    NOTEON 4 311 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 68 36
+    NOOP
+    NOTEON 1 60 39
+    NOTEON 1 63 36
+    NOOP
+    NOTEON 1 48 35
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 37
+    NOOP
+    NOTEON 1 56 29
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 55 33
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 72 40
+    NOOP
+    NOTEON 1 61 39
+    NOOP
+    NOTEON 1 65 41
+    NOOP
+    NOTEON 1 37 40
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 37
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
     WAIT 2
-    NOTEON 1 415 36
-    WAIT 1
-    NOTEON 2 261 39
-    NOTEON 3 311 36
-    WAIT 1
-    NOTEON 4 130 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 37
-    WAIT 1
-    NOTEON 2 207 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 40
-    WAIT 1
-    NOTEON 2 277 39
-    WAIT 1
-    NOTEON 3 349 41
-    WAIT 1
-    NOTEON 4 69 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 34
-    WAIT 1
-    NOTEON 2 349 40
-    NOTEON 3 103 35
-    WAIT 1
-    NOTEON 4 466 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 349 35
-    WAIT 1
-    NOTEON 2 466 37
-    NOTEON 3 622 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 36
-    WAIT 1
-    NOTEON 2 523 37
-    NOTEON 3 698 38
-    WAIT 1
-    NOTEON 4 77 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 184 32
-    WAIT 1
-    NOTEON 2 369 32
-    NOTEON 3 233 35
-    WAIT 1
-    NOTEON 4 466 38
-    NOTEOFF 1
-    NOTEON 1 622 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 32
-    WAIT 1
-    NOTEON 2 783 35
-    NOTEON 3 207 32
-    WAIT 1
-    NOTEON 4 261 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 87 29
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 311 33
-    NOTEON 2 233 32
-    WAIT 1
-    NOTEON 3 174 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 155 30
-    WAIT 1
-    NOTEON 2 195 42
-    NOTEON 3 65 40
-    WAIT 1
-    NOTEON 4 261 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 97 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 40
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 155 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 36
-    WAIT 1
-    NOTEON 2 277 31
-    NOTEON 3 349 40
-    WAIT 1
-    NOTEON 4 69 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 32
-    WAIT 1
-    NOTEON 2 349 40
-    NOTEON 3 103 38
-    WAIT 1
-    NOTEON 4 466 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 349 40
-    NOTEON 2 622 38
-    NOTEON 3 466 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 311 37
-    WAIT 1
-    NOTEON 2 415 39
-    NOTEON 3 523 40
-    NOTEON 4 77 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 35
-    WAIT 1
-    NOTEON 2 116 35
-    WAIT 1
-    NOTEON 3 391 39
-    NOTEON 4 466 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 391 36
-    WAIT 1
-    NOTEON 2 415 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 40
-    WAIT 1
-    NOTEON 2 311 42
-    WAIT 1
-    NOTEON 3 65 42
-    WAIT 1
-    NOTEON 4 261 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 130 37
-    WAIT 1
-    NOTEON 2 261 39
-    NOTEON 3 415 35
-    NOTEON 4 311 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 37
-    WAIT 1
-    NOTEON 2 466 38
-    WAIT 1
-    NOTEON 3 391 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 40
-    NOTEON 2 87 37
-    WAIT 1
-    NOTEON 3 233 45
-    WAIT 1
-    NOTEON 4 311 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 415 38
-    WAIT 1
-    NOTEON 2 261 41
-    NOTEON 3 311 38
-    NOTEON 4 130 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 35
-    WAIT 1
-    NOTEON 2 207 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 277 32
-    WAIT 1
-    NOTEON 2 349 40
-    WAIT 1
-    NOTEON 3 466 36
-    WAIT 1
-    NOTEON 4 92 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 138 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 34
-    WAIT 1
-    NOTEON 2 523 33
-    WAIT 1
-    NOTEON 3 184 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 42
-    WAIT 1
-    NOTEON 2 554 42
-    WAIT 1
-    NOTEON 3 233 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 37
-    WAIT 1
-    NOTEON 2 523 37
-    WAIT 1
-    NOTEON 3 261 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 31
-    WAIT 1
-    NOTEON 2 698 35
-    WAIT 1
-    NOTEON 3 466 37
-    WAIT 1
-    NOTEON 4 277 34
-    WAIT 1
-    WAIT 1
-    NOTEON 4 277 35
-    WAIT 1
-    WAIT 1
-    NOTEON 4 415 33
-    WAIT 1
-    WAIT 1
-    NOTEON 4 277 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 39
-    WAIT 1
-    NOTEON 2 466 36
-    WAIT 1
-    NOTEON 3 349 36
-    WAIT 1
-    NOTEON 4 698 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 43
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 33
-    WAIT 1
-    NOTEON 2 622 37
-    NOTEON 3 932 35
-    WAIT 1
-    NOTEON 4 155 42
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 31
-    WAIT 1
-    NOTEON 2 932 33
-    NOTEON 3 523 37
-    WAIT 1
-    NOTEON 4 698 40
-    NOTEOFF 1
-    NOTEON 1 87 33
-    WAIT 1
-    WAIT 2
-    NOTEON 1 233 29
-    NOTEOFF 1
-    NOTEON 1 261 27
-    NOTEOFF 1
-    NOTEON 1 174 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 29
-    WAIT 1
-    NOTEON 2 174 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 23
-    WAIT 1
-    NOTEON 2 523 35
-    WAIT 1
-    NOTEON 3 622 34
-    NOTEON 4 87 32
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 880 35
-    WAIT 1
-    WAIT 2
-    NOTEON 4 130 33
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 155 29
-    NOTEOFF 1
-    NOTEON 1 220 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 220 31
-    NOTEON 4 174 30
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 261 30
-    WAIT 3
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    NOTEON 2 466 29
-    WAIT 1
-    NOTEON 3 195 32
-    WAIT 1
-    NOTEON 4 622 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 32
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 32
-    WAIT 1
-    WAIT 1
-    NOTEON 2 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 32
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 28
-    WAIT 1
-    NOTEON 4 466 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 37
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 28
-    WAIT 1
-    NOTEON 4 466 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 29
-    WAIT 1
-    NOTEON 4 466 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 35
-    WAIT 1
-    NOTEON 2 195 26
-    WAIT 1
-    NOTEON 3 622 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 34
-    WAIT 1
-    WAIT 1
-    NOTEON 3 293 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 34
-    WAIT 1
-    NOTEON 1 554 36
-    WAIT 1
-    NOTEON 3 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 33
-    WAIT 1
-    NOTEON 3 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    NOTEON 2 174 30
-    WAIT 1
-    NOTEON 3 415 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 29
-    WAIT 1
-    WAIT 1
-    NOTEON 3 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 34
-    WAIT 1
-    NOTEON 4 415 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 32
-    WAIT 1
-    NOTEON 3 391 31
-    WAIT 1
-    NOTEON 4 415 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 33
-    WAIT 1
-    NOTEON 3 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 31
-    WAIT 1
-    NOTEON 2 415 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 35
-    WAIT 1
-    NOTEON 2 146 30
-    WAIT 1
-    NOTEON 3 523 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 220 32
-    WAIT 1
-    WAIT 1
-    NOTEON 3 349 33
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 220 35
-    WAIT 1
-    WAIT 1
-    NOTEON 2 349 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 31
-    WAIT 1
-    NOTEON 2 349 35
-    NOTEON 3 195 32
-    WAIT 1
-    NOTEON 4 493 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 493 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 174 32
-    WAIT 1
-    NOTEON 2 293 33
-    WAIT 1
-    NOTEON 3 698 35
-    NOTEON 4 246 36
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 622 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 587 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 37
-    WAIT 1
-    NOTEON 2 195 29
-    WAIT 1
-    NOTEON 3 1244 36
-    WAIT 1
-    NOTEON 4 293 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 466 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 37
-    WAIT 1
-    NOTEON 2 1174 38
-    NOTEON 3 195 29
-    WAIT 1
-    WAIT 1
-    NOTEON 3 293 38
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 36
-    NOTEON 2 195 27
-    WAIT 1
-    NOTEON 3 1108 36
-    WAIT 1
-    NOTEON 4 293 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 36
-    WAIT 1
-    NOTEON 2 195 31
-    WAIT 1
-    NOTEON 3 1174 38
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 38
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 33
-    NOTEON 2 880 36
-    WAIT 1
-    NOTEON 3 1244 38
-    WAIT 1
-    NOTEON 4 195 26
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 33
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    NOTEON 2 830 36
-    NOTEON 3 195 38
-    WAIT 1
-    NOTEON 4 1174 37
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 42
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 34
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    NOTEON 2 830 40
-    NOTEON 3 195 38
-    WAIT 1
-    NOTEON 4 1108 38
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1174 37
-    NOTEON 2 554 41
-    WAIT 1
-    NOTEON 3 830 30
-    WAIT 1
-    NOTEON 4 195 31
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 33
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 37
-    WAIT 1
-    NOTEON 2 1244 40
-    WAIT 1
-    NOTEON 3 739 32
-    WAIT 1
-    NOTEON 4 184 35
-    WAIT 1
-    WAIT 1
-    NOTEON 4 261 26
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 40
-    WAIT 1
-    NOTEON 2 440 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    NOTEON 2 880 35
-    NOTEON 3 1174 38
-    WAIT 1
-    NOTEON 4 184 40
-    WAIT 1
-    WAIT 1
-    NOTEON 4 261 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 30
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 37
-    WAIT 1
-    NOTEON 2 184 40
-    WAIT 1
-    NOTEON 3 739 36
-    NOTEON 4 1108 37
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 26
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 37
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 880 31
-    WAIT 1
-    NOTEON 2 1174 35
-    NOTEON 3 1760 39
-    WAIT 1
-    NOTEON 4 184 37
-    WAIT 1
-    WAIT 1
-    NOTEON 4 261 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 44
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 30
-    WAIT 1
-    NOTEON 2 1567 42
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 36
-    WAIT 1
-    NOTEON 3 1046 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1174 33
-    WAIT 1
-    NOTEON 2 440 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 36
-    WAIT 1
-    NOTEON 2 880 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 932 40
-    WAIT 1
-    NOTEON 2 195 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    NOTEON 2 783 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 880 35
-    WAIT 1
-    NOTEON 2 440 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 36
-    WAIT 1
-    NOTEON 2 466 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 146 39
-    WAIT 1
-    NOTEON 2 698 40
-    WAIT 1
-    NOTEON 3 220 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 659 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 329 38
-    WAIT 1
-    NOTEON 2 440 27
-    WAIT 1
-    WAIT 1
-    NOTEON 2 349 36
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 523 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 146 26
-    WAIT 1
-    NOTEON 2 220 38
-    WAIT 1
-    NOTEON 3 391 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 38
-    WAIT 1
-    NOTEON 2 329 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1760 43
-    WAIT 1
-    NOTEON 2 110 40
-    WAIT 1
-    NOTEON 3 164 41
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1174 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1318 33
-    NOTEON 2 246 40
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 37
-    WAIT 1
-    NOTEON 3 987 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1046 37
-    WAIT 1
-    NOTEON 2 110 37
-    WAIT 1
-    NOTEON 3 164 38
-    WAIT 1
-    NOTEON 4 880 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 987 33
-    NOTEON 2 246 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 659 38
-    WAIT 1
-    NOTEON 3 261 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 38
-    WAIT 1
-    NOTEON 2 164 31
-    WAIT 1
-    NOTEON 3 246 29
-    WAIT 1
-    NOTEON 4 739 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 35
-    WAIT 1
-    NOTEON 2 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 30
-    WAIT 1
-    NOTEON 1 659 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 164 33
-    WAIT 1
-    NOTEON 2 493 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    NOTEON 3 246 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 39
-    WAIT 1
-    NOTEON 2 369 41
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 123 36
-    WAIT 1
-    NOTEON 2 1975 38
-    WAIT 1
-    NOTEON 3 184 38
-    WAIT 1
-    WAIT 1
-    NOTEON 2 1318 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1479 38
-    WAIT 1
-    NOTEON 3 277 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 1108 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1174 33
-    WAIT 1
-    NOTEON 2 123 37
-    WAIT 1
-    NOTEON 3 184 36
-    WAIT 1
-    NOTEON 4 987 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1108 30
-    WAIT 1
-    NOTEON 2 277 40
-    WAIT 1
-    NOTEON 3 293 34
-    WAIT 1
-    NOTEON 1 880 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 146 34
-    WAIT 1
-    NOTEON 2 783 38
-    WAIT 1
-    NOTEON 3 220 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 698 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 329 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 659 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 349 35
-    WAIT 1
-    NOTEON 3 587 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 38
-    WAIT 1
-    NOTEON 2 146 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 220 38
-    WAIT 1
-    NOTEON 2 659 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 35
-    WAIT 1
-    NOTEON 2 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    NOTEON 3 329 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 36
-    NOTEON 2 174 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 587 32
-    WAIT 1
-    NOTEON 3 261 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 698 38
-    WAIT 1
-    NOTEON 2 391 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 37
-    WAIT 1
-    NOTEON 2 415 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1046 42
-    WAIT 1
-    NOTEON 2 174 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 698 38
-    WAIT 1
-    NOTEON 3 261 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 33
-    WAIT 1
-    NOTEON 2 391 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1174 37
-    NOTEON 2 415 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 33
-    WAIT 1
-    NOTEON 2 174 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 37
-    WAIT 1
-    NOTEON 2 1046 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 40
-    WAIT 1
-    NOTEON 2 1396 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 33
-    WAIT 1
-    NOTEON 2 830 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1046 38
-    WAIT 1
-    NOTEON 2 174 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 37
-    WAIT 1
-    NOTEON 2 1396 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 38
-    NOTEON 2 391 41
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 33
-    WAIT 1
-    NOTEON 2 1661 47
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 36
-    WAIT 1
-    NOTEON 2 130 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 1567 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 26
-    WAIT 1
-    NOTEON 2 233 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1567 36
-    WAIT 1
-    NOTEON 2 391 39
-    WAIT 1
-    NOTEON 3 783 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1567 40
-    WAIT 1
-    WAIT 1
-    NOTEON 2 130 32
-    WAIT 1
-    NOTEON 3 783 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 43
-    WAIT 1
-    WAIT 1
-    NOTEON 2 1567 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 38
-    WAIT 1
-    WAIT 1
-    NOTEON 2 233 30
-    WAIT 1
-    NOTEON 3 1567 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 36
-    WAIT 1
-    WAIT 1
-    NOTEON 2 277 41
-    WAIT 1
-    NOTEON 3 1567 41
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 34
-    WAIT 1
-    WAIT 1
-    NOTEON 3 1567 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 35
-    WAIT 1
-    NOTEON 4 783 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 1567 28
-    WAIT 1
-    WAIT 1
-    NOTEON 3 783 27
-    WAIT 1
-    WAIT 1
-    NOTEON 2 277 33
-    WAIT 1
-    NOTEON 4 1567 26
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 25
-    WAIT 1
-    WAIT 1
-    NOTEON 3 1567 27
-    WAIT 1
-    NOTEON 4 233 22
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 25
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 29
-    WAIT 1
-    WAIT 1
-    NOTEON 2 783 22
-    WAIT 1
-    WAIT 1
-    NOTEON 3 1567 22
-    WAIT 1
-    NOTEON 4 207 26
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 22
-    WAIT 1
-    WAIT 1
-    NOTEON 2 233 27
-    WAIT 1
-    NOTEON 3 1567 21
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 22
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 195 21
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 20
-    WAIT 1
-    NOTEON 3 1567 20
-    WAIT 1
-    NOTEON 4 207 14
-    WAIT 1
-    WAIT 6
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 87 34
-    WAIT 1
-    NOTEON 2 349 38
-    WAIT 1
-    WAIT 2
-    NOTEON 1 261 33
-    WAIT 1
-    NOTEON 3 195 29
-    NOTEON 4 207 27
-    NOTEOFF 1
-    NOTEON 1 130 30
-    WAIT 1
-    WAIT 2
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 87 33
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 26
-    WAIT 1
-    NOTEON 2 130 30
-    NOTEON 3 207 24
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 32
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 36
-    WAIT 1
-    NOTEON 2 130 36
-    WAIT 1
-    WAIT 2
-    NOTEON 2 233 29
-    NOTEON 3 155 30
-    WAIT 1
-    NOTEON 4 261 33
-    NOTEOFF 1
-    NOTEON 1 195 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 3
-    NOTEON 1 130 35
-    WAIT 1
-    WAIT 2
-    NOTEON 1 233 29
-    WAIT 1
-    NOTEON 2 155 29
-    WAIT 1
-    NOTEON 3 195 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 29
-    WAIT 1
-    NOTEON 2 415 30
-    NOTEON 3 138 31
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 233 25
-    WAIT 1
-    NOTEON 3 207 28
-    WAIT 1
-    NOTEON 4 174 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 31
-    WAIT 1
-    NOTEON 2 466 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 77 33
-    WAIT 1
-    NOTEON 2 391 35
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 30
-    WAIT 1
-    NOTEON 3 233 29
-    WAIT 1
-    NOTEON 4 138 27
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 30
-    WAIT 1
-    WAIT 1
-    NOTEON 2 523 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 87 28
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 30
-    WAIT 1
-    NOTEON 3 130 30
-    WAIT 1
-    NOTEON 4 207 24
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 29
-    WAIT 1
-    NOTEON 1 261 32
-    WAIT 1
-    NOTEON 2 65 37
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 233 30
-    NOTEON 2 164 31
-    WAIT 1
-    NOTEON 3 195 30
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 207 26
-    WAIT 1
-    NOTEON 2 261 31
-    WAIT 1
-    NOTEON 3 87 35
-    WAIT 1
-    NOTEON 4 349 34
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 28
-    WAIT 1
-    NOTEON 2 261 31
-    NOTEON 3 207 24
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 130 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 87 31
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 29
-    NOTEON 3 207 26
-    WAIT 1
-    NOTEON 4 130 25
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 26
-    WAIT 1
-    NOTEON 2 349 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 35
-    NOTEON 2 130 37
-    WAIT 1
-    WAIT 1
-    NOTEON 2 415 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 29
-    WAIT 1
-    NOTEON 3 233 29
-    NOTEON 4 155 27
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 391 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 3 261 34
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 130 36
-    WAIT 1
-    WAIT 2
-    NOTEON 1 233 27
-    WAIT 1
-    NOTEON 2 195 29
-    NOTEON 4 155 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 31
-    WAIT 1
-    NOTEON 2 415 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 33
-    WAIT 1
-    NOTEON 3 116 30
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 2 311 27
-    WAIT 1
-    NOTEON 3 207 29
-    WAIT 1
-    NOTEON 4 174 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 31
-    WAIT 1
-    NOTEON 2 277 30
-    WAIT 1
-    NOTEON 3 415 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 34
-    WAIT 1
-    WAIT 1
-    NOTEON 2 77 36
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 30
-    NOTEON 2 155 27
-    WAIT 1
-    NOTEON 3 311 30
-    NOTEON 4 261 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 30
-    WAIT 1
-    NOTEON 2 391 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 87 37
-    WAIT 1
-    WAIT 2
-    NOTEON 1 207 32
-    WAIT 1
-    NOTEON 2 195 33
-    WAIT 1
-    NOTEON 3 261 29
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 36
-    NOTEON 2 311 33
-    WAIT 1
-    NOTEON 3 207 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 38
-    WAIT 1
-    NOTEON 2 220 34
-    NOTEON 3 261 34
-    WAIT 1
-    NOTEON 4 87 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 130 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 39
-    WAIT 1
-    NOTEON 2 261 41
-    WAIT 1
-    NOTEON 3 349 44
-    NOTEON 4 43 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 261 38
-    NOTEON 2 311 37
-    NOTEON 3 466 35
-    NOTEON 4 77 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 554 29
-    WAIT 1
-    NOTEON 2 277 27
-    WAIT 1
-    NOTEON 3 698 33
-    WAIT 1
-    NOTEON 4 523 31
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 415 28
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 1046 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 932 33
-    WAIT 1
-    WAIT 2
-    NOTEON 1 1244 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 27
-    WAIT 1
-    NOTEON 2 830 30
-    WAIT 1
-    NOTEON 3 311 29
-    WAIT 1
-    NOTEON 4 1046 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 30
-    WAIT 1
-    NOTEON 2 523 31
-    WAIT 1
-    NOTEON 3 932 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 783 29
-    WAIT 1
-    NOTEON 2 830 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 36
-    NOTEON 2 523 30
-    WAIT 1
-    NOTEON 3 261 30
-    WAIT 1
-    NOTEON 4 932 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 30
-    WAIT 1
-    NOTEON 2 830 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1244 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 29
-    WAIT 1
-    NOTEON 2 783 28
-    WAIT 1
-    NOTEON 3 466 35
-    WAIT 1
-    NOTEON 4 622 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 30
-    WAIT 1
-    NOTEON 2 349 33
-    WAIT 1
-    NOTEON 3 622 30
-    NOTEON 4 830 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 33
-    WAIT 1
-    NOTEON 2 415 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 32
-    WAIT 1
-    NOTEON 2 698 36
-    NOTEON 3 277 34
-    WAIT 1
-    NOTEON 4 1046 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 554 32
-    NOTEON 2 932 33
-    WAIT 1
-    NOTEON 3 698 35
-    NOTEON 4 415 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 698 32
-    NOTEON 2 1244 30
-    WAIT 1
-    NOTEON 3 932 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 739 32
-    WAIT 1
-    NOTEON 2 1046 35
-    NOTEON 3 1396 33
-    NOTEON 4 311 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 1244 30
-    WAIT 1
-    NOTEON 2 739 30
-    NOTEON 3 466 33
-    NOTEON 4 369 29
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 932 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1661 29
-    WAIT 1
-    NOTEON 2 1567 33
-    NOTEON 3 415 30
-    WAIT 1
-    NOTEON 4 523 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1046 23
-    WAIT 1
-    WAIT 1
-    NOTEON 2 349 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 35
-    WAIT 1
-    NOTEON 2 349 37
-    NOTEON 3 466 34
-    WAIT 1
-    NOTEON 4 233 41
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 207 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 40
-    WAIT 1
-    NOTEON 2 155 40
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 130 33
-    WAIT 1
-    NOTEON 2 523 40
-    WAIT 1
-    NOTEON 3 311 39
-    NOTEON 4 391 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 61 34
+    NOOP
     NOTEON 1 65 40
+    NOTEON 1 44 35
+    NOOP
+    NOTEON 1 70 38
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
     WAIT 2
-    NOTEON 2 466 37
-    WAIT 1
-    NOTEON 3 261 40
-    NOTEON 4 311 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 36
-    WAIT 1
-    WAIT 1
-    NOTEON 2 311 34
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 523 38
-    WAIT 1
-    NOTEON 2 349 40
-    NOTEON 3 69 38
-    WAIT 1
-    NOTEON 4 277 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 31
-    WAIT 1
-    NOTEON 2 349 41
-    NOTEON 3 466 37
-    NOTEON 4 103 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 622 36
-    NOTEON 2 349 41
-    NOTEON 3 466 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 65 35
+    NOOP
+    NOTEON 1 70 37
+    NOTEON 1 75 36
+    NOOP
+    NOTEOFF 1 75
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 66 36
+    NOOP
+    NOTEON 1 72 37
     NOTEON 1 77 38
-    WAIT 1
-    NOTEON 2 523 41
-    WAIT 1
-    NOTEON 3 311 38
-    NOTEON 4 415 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOOP
+    NOTEON 1 39 39
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 77
+    NOTEOFF 1 39
     WAIT 2
-    NOTEON 1 466 32
-    WAIT 1
-    NOTEON 2 277 38
-    NOTEON 3 116 38
-    WAIT 1
-    NOTEON 4 391 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 54 32
+    NOOP
+    NOTEON 1 66 32
+    NOTEON 1 58 35
+    NOOP
+    NOTEON 1 70 38
+    NOTEON 1 75 33
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 80 32
+    NOOP
+    NOTEON 1 79 35
+    NOTEON 1 56 32
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 56
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 72 33
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 41 29
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 391 40
-    WAIT 1
-    NOTEON 2 415 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 311 46
-    WAIT 1
-    NOTEON 2 261 38
-    NOTEON 3 466 45
-    NOTEON 4 65 43
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 63 33
+    NOTEON 1 58 32
+    NOOP
+    NOTEON 1 53 35
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 53
     WAIT 2
-    NOTEON 1 261 40
-    WAIT 1
-    NOTEON 2 311 39
-    NOTEON 3 415 38
-    NOTEON 4 130 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 38
-    WAIT 1
-    NOTEON 2 466 39
-    NOTEON 3 391 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 87 40
-    WAIT 1
-    NOTEON 2 233 40
-    NOTEON 3 311 33
-    NOTEON 4 391 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 61 36
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 51 30
+    NOOP
+    NOTEON 1 55 42
+    NOTEON 1 36 40
+    NOOP
+    NOTEON 1 60 38
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 36
+    NOOP
+    NOTEON 1 43 38
+    NOOP
+    NOTEOFF 1 43
+    NOOP
+    NOTEON 1 58 40
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 55 37
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 51 30
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEON 1 72 36
+    NOOP
+    NOTEON 1 61 31
+    NOTEON 1 65 40
+    NOOP
+    NOTEON 1 37 38
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 37
     WAIT 2
-    NOTEON 1 415 35
-    WAIT 1
-    NOTEON 2 130 40
-    WAIT 1
-    NOTEON 3 261 37
-    NOTEON 4 311 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 36
-    WAIT 1
-    NOTEON 2 207 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 92 34
-    WAIT 1
-    NOTEON 2 277 34
-    NOTEON 3 349 39
-    WAIT 1
-    NOTEON 4 466 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 138 40
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 33
-    NOTEON 2 184 42
-    WAIT 1
-    NOTEON 3 523 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 45
-    WAIT 1
-    NOTEON 2 466 40
-    WAIT 1
-    NOTEON 3 554 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 35
-    WAIT 1
-    NOTEON 2 622 35
-    NOTEON 3 261 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 38
-    NOTEON 2 698 36
-    WAIT 1
-    NOTEON 3 466 35
-    NOTEON 4 277 35
-    WAIT 1
-    WAIT 1
-    NOTEON 4 277 42
-    WAIT 1
-    WAIT 1
-    NOTEON 4 415 31
-    WAIT 1
-    WAIT 1
-    NOTEON 4 277 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 36
-    WAIT 1
-    NOTEON 2 261 39
-    WAIT 1
-    NOTEON 3 349 37
-    NOTEON 4 698 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 39
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 36
-    WAIT 1
-    NOTEON 2 932 36
-    WAIT 1
-    NOTEON 3 155 40
-    WAIT 1
-    NOTEON 4 622 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 932 36
-    WAIT 1
-    NOTEON 2 466 32
-    NOTEON 3 87 31
-    WAIT 1
-    NOTEON 4 523 34
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 698 37
-    WAIT 1
+    NOTEON 1 61 32
+    NOOP
+    NOTEON 1 65 40
+    NOTEON 1 44 38
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
     WAIT 2
-    NOTEON 3 261 30
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 233 29
-    NOTEOFF 1
-    NOTEON 1 174 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 65 40
+    NOTEON 1 75 38
+    NOTEON 1 70 39
+    NOOP
+    NOTEOFF 1 75
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 63 37
+    NOOP
+    NOTEON 1 68 39
+    NOTEON 1 72 40
+    NOTEON 1 39 38
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 39
     WAIT 2
-    NOTEON 1 174 32
-    WAIT 1
-    NOTEON 2 195 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 24
-    WAIT 1
-    NOTEON 2 87 34
-    WAIT 1
-    NOTEON 3 880 39
-    NOTEON 4 523 35
-    NOTEOFF 1
-    NOTEON 1 622 35
-    WAIT 1
-    WAIT 1
-    NOTEON 2 130 35
-    WAIT 1
-    WAIT 1
-    NOTEON 2 220 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 233 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 37
-    WAIT 1
-    NOTEON 2 440 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 277 41
-    NOTEON 2 349 42
-    NOTEON 3 523 43
-    NOTEON 4 69 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 61 35
+    NOOP
+    NOTEON 1 46 35
+    NOOP
+    NOTEON 1 67 39
+    NOTEON 1 70 36
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 46
     WAIT 2
-    NOTEON 1 277 36
-    NOTEON 2 349 42
-    NOTEON 3 466 37
-    WAIT 1
-    NOTEON 4 103 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 67 36
+    NOOP
+    NOTEON 1 68 38
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 70 40
+    NOOP
+    NOTEON 1 63 42
+    NOOP
+    NOTEON 1 36 42
+    NOOP
+    NOTEON 1 60 33
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 36
     WAIT 2
-    NOTEON 1 622 36
-    NOTEON 2 349 35
-    NOTEON 3 466 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 311 40
-    NOTEON 2 415 40
-    WAIT 1
-    NOTEON 3 523 43
-    NOTEON 4 77 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 48 37
+    NOOP
+    NOTEON 1 60 39
+    NOTEON 1 68 35
+    NOTEON 1 63 39
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 36
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 75 37
+    NOOP
+    NOTEON 1 70 38
+    NOOP
+    NOTEON 1 67 39
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 67 40
+    NOTEON 1 41 37
+    NOOP
+    NOTEON 1 58 45
+    NOOP
+    NOTEON 1 63 37
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 67
     WAIT 2
-    NOTEON 1 277 42
-    NOTEON 2 391 40
-    NOTEON 3 466 35
-    WAIT 1
-    NOTEON 4 116 46
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 68 38
+    NOOP
+    NOTEON 1 60 41
+    NOTEON 1 63 38
+    NOTEON 1 48 36
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 35
+    NOOP
+    NOTEON 1 56 28
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 55 35
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 61 32
+    NOOP
+    NOTEON 1 65 40
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 42 40
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 42
+    NOOP
+    NOTEON 1 49 34
+    NOOP
+    NOTEOFF 1 49
+    NOOP
+    NOTEON 1 68 34
+    NOOP
+    NOTEON 1 72 33
+    NOOP
+    NOTEON 1 54 40
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 70 42
+    NOOP
+    NOTEON 1 73 42
+    NOOP
+    NOTEON 1 58 39
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 75 37
+    NOOP
+    NOTEON 1 72 37
+    NOOP
+    NOTEON 1 60 35
+    NOOP
+    NOTEOFF 1 75
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 66 31
+    NOOP
+    NOTEON 1 77 35
+    NOOP
+    NOTEON 1 70 37
+    NOOP
+    NOTEON 1 61 34
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 61 35
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 68 33
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 61 29
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 66
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 60 39
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 65 36
+    NOOP
+    NOTEON 1 77 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 58 43
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 70 33
+    NOOP
+    NOTEON 1 75 37
+    NOTEON 1 82 35
+    NOOP
+    NOTEON 1 51 42
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEON 1 70 31
+    NOOP
+    NOTEON 1 82 33
+    NOTEON 1 72 37
+    NOOP
+    NOTEON 1 77 40
+    NOTEON 1 41 33
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 391 39
-    WAIT 1
-    NOTEON 2 415 43
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 311 48
-    NOTEON 2 466 48
-    WAIT 1
-    NOTEON 3 261 40
-    NOTEON 4 65 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 58 29
+    NOTEON 1 60 27
+    NOTEON 1 53 32
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 58
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 53
+    NOTEOFF 1 72
     WAIT 2
-    NOTEON 1 261 40
-    NOTEON 2 311 43
-    NOTEON 3 415 38
-    NOTEON 4 130 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 38
-    NOTEON 2 622 38
-    WAIT 1
-    NOTEON 3 391 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 45
-    WAIT 1
-    NOTEON 2 311 25
-    NOTEON 3 391 38
-    NOTEON 4 87 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 53 29
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 69 23
+    NOOP
+    NOTEON 1 72 35
+    NOOP
+    NOTEON 1 75 34
+    NOTEON 1 41 32
+    NOOP
+    NOTEON 1 81 35
+    NOOP
+    NOTEOFF 1 41
     WAIT 2
-    NOTEON 1 415 36
-    WAIT 1
-    NOTEON 2 261 38
-    NOTEON 3 311 38
-    NOTEON 4 130 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 35
-    WAIT 1
-    NOTEON 2 207 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 40
-    WAIT 1
-    NOTEON 2 277 38
-    NOTEON 3 349 42
-    WAIT 1
-    NOTEON 4 69 42
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
+    NOTEON 1 48 33
+    NOOP
+    NOTEON 1 51 29
+    NOTEON 1 57 32
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 57
     WAIT 2
-    NOTEON 1 277 35
-    WAIT 1
-    NOTEON 2 349 43
-    NOTEON 3 103 38
-    WAIT 1
-    NOTEON 4 466 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 349 37
-    WAIT 1
-    NOTEON 2 622 37
-    NOTEON 3 466 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 39
-    WAIT 1
-    NOTEON 2 523 42
-    NOTEON 3 698 39
-    NOTEON 4 77 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 369 38
-    NOTEON 2 622 38
-    NOTEON 3 233 36
-    NOTEON 4 184 35
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 466 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 830 36
-    WAIT 1
-    NOTEON 2 783 37
-    NOTEON 3 261 35
-    NOTEON 4 207 31
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 29
-    WAIT 1
-    WAIT 1
-    NOTEON 2 87 40
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 311 42
-    NOTEON 2 233 36
-    NOTEON 3 174 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 155 31
-    WAIT 1
-    NOTEON 2 65 40
-    WAIT 1
-    NOTEON 3 195 38
-    NOTEON 4 261 44
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 97 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 43
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 38
-    WAIT 1
-    WAIT 1
-    NOTEON 1 155 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 277 32
-    NOTEON 2 349 38
-    NOTEON 3 523 38
-    NOTEON 4 69 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 349 40
-    NOTEON 2 466 37
-    WAIT 1
-    NOTEON 3 277 37
-    NOTEON 4 103 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 622 35
-    WAIT 1
-    NOTEON 2 349 38
-    NOTEON 3 466 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 37
-    NOTEON 2 77 37
-    WAIT 1
-    NOTEON 3 311 38
-    NOTEON 4 415 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 277 40
-    WAIT 1
-    NOTEON 2 466 31
-    WAIT 1
-    NOTEON 3 391 40
-    NOTEON 4 116 44
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 391 38
-    WAIT 1
-    NOTEON 2 415 42
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 42
-    NOTEON 2 311 45
-    WAIT 1
-    NOTEON 3 466 45
-    WAIT 1
-    NOTEON 4 65 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 311 37
-    NOTEON 2 130 37
-    WAIT 1
-    NOTEON 3 261 37
-    NOTEON 4 415 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 37
-    WAIT 1
-    NOTEON 2 466 38
-    NOTEON 3 391 39
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 44
-    WAIT 1
-    NOTEON 2 391 41
-    NOTEON 3 87 39
-    WAIT 1
-    NOTEON 4 311 24
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 130 39
-    WAIT 1
-    NOTEON 2 415 36
-    WAIT 1
-    NOTEON 3 261 38
-    NOTEON 4 311 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 35
-    WAIT 1
-    NOTEON 2 207 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 195 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 277 38
-    NOTEON 2 466 35
-    WAIT 1
-    NOTEON 3 349 36
-    WAIT 1
-    NOTEON 4 92 41
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 138 37
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 38
-    WAIT 1
-    NOTEON 2 523 39
-    WAIT 1
-    NOTEON 3 184 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 37
-    WAIT 1
-    NOTEON 2 466 45
-    WAIT 1
-    NOTEON 3 554 44
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 36
-    WAIT 1
-    NOTEON 2 523 37
-    NOTEON 3 261 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 369 38
-    WAIT 1
-    NOTEON 2 466 38
-    NOTEON 3 698 36
-    NOTEON 4 277 32
-    WAIT 1
-    WAIT 1
-    NOTEON 4 277 39
-    WAIT 1
-    WAIT 1
-    NOTEON 4 415 32
-    WAIT 1
-    WAIT 1
-    NOTEON 4 277 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 35
-    NOTEON 2 261 41
-    WAIT 1
-    NOTEON 3 349 38
-    WAIT 1
-    NOTEON 4 698 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 233 46
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 33
-    WAIT 1
-    NOTEON 2 932 39
-    NOTEON 3 155 44
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 932 35
-    WAIT 1
-    NOTEON 2 523 39
-    NOTEON 3 87 40
-    WAIT 1
-    NOTEON 4 466 36
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 698 41
-    WAIT 1
-    WAIT 2
-    NOTEON 3 261 31
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 233 30
-    NOTEOFF 1
-    NOTEON 1 174 33
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 195 30
-    WAIT 1
-    NOTEON 2 174 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 28
-    WAIT 1
-    NOTEON 2 523 35
-    WAIT 1
-    NOTEON 3 622 35
-    WAIT 1
-    NOTEON 4 880 38
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 87 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 130 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 220 33
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 233 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 27
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 20
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1108 25
-    NOTEON 2 1864 24
-    NOTEON 3 698 34
-    WAIT 1
-    NOTEON 4 1046 25
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 1396 28
-    WAIT 1
-    WAIT 1
-    NOTEON 3 622 25
-    WAIT 1
-    WAIT 1
-    NOTEON 3 349 25
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 1046 22
-    WAIT 1
-    NOTEON 2 698 22
-    WAIT 1
-    NOTEON 3 1244 22
-    WAIT 1
-    NOTEON 4 1760 24
-    WAIT 4
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 155 24
-    WAIT 1
-    NOTEON 2 174 26
-    NOTEON 3 261 25
-    WAIT 12
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 25
-    WAIT 1
-    NOTEON 2 466 30
-    WAIT 1
-    NOTEON 3 195 29
-    WAIT 1
-    NOTEON 4 622 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 30
-    WAIT 1
-    NOTEON 4 466 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    NOTEON 2 391 26
-    WAIT 1
-    NOTEON 4 466 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    NOTEON 2 391 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    NOTEON 2 293 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 28
-    WAIT 1
-    NOTEON 4 466 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 34
-    WAIT 1
-    NOTEON 2 195 28
-    WAIT 1
-    NOTEON 3 622 36
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 33
-    WAIT 1
-    NOTEON 3 587 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 31
-    WAIT 1
-    NOTEON 3 391 29
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 29
-    WAIT 1
-    WAIT 1
-    NOTEON 3 293 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    NOTEON 3 391 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 28
-    WAIT 1
-    NOTEON 2 415 32
-    WAIT 1
-    NOTEON 3 174 30
-    WAIT 1
-    NOTEON 4 622 22
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 30
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 29
-    WAIT 1
-    NOTEON 4 415 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 36
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    NOTEON 2 391 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 30
-    WAIT 1
-    WAIT 1
-    NOTEON 2 523 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 30
-    WAIT 1
-    NOTEON 2 391 28
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 29
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 32
-    WAIT 1
-    WAIT 1
-    NOTEON 1 261 31
-    WAIT 1
-    NOTEON 2 391 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 415 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    NOTEON 2 146 31
-    WAIT 1
-    NOTEON 3 523 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 220 25
-    WAIT 1
-    NOTEON 3 349 31
-    WAIT 1
-    WAIT 1
-    NOTEON 3 391 30
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 33
-    WAIT 1
-    NOTEON 3 220 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 349 31
-    NOTEON 2 195 31
-    WAIT 1
-    NOTEON 3 587 33
-    WAIT 1
-    NOTEON 4 493 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 293 30
-    WAIT 1
-    NOTEON 3 349 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 493 31
-    WAIT 1
-    WAIT 1
-    NOTEON 1 698 36
-    WAIT 1
-    NOTEON 2 174 31
-    NOTEON 3 293 33
-    WAIT 1
-    NOTEON 4 246 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 622 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 30
-    WAIT 1
-    NOTEON 2 523 28
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 32
-    WAIT 1
-    NOTEON 2 195 28
-    WAIT 1
-    NOTEON 3 1244 35
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 31
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 40
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    WAIT 1
-    NOTEON 2 195 35
-    WAIT 1
-    NOTEON 3 1174 38
-    WAIT 1
-    WAIT 1
-    NOTEON 2 293 34
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 34
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 34
-    WAIT 1
-    NOTEON 2 1108 33
-    WAIT 1
-    NOTEON 3 195 25
-    WAIT 1
-    WAIT 1
-    NOTEON 3 293 36
-    WAIT 1
-    WAIT 1
-    NOTEON 3 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 41
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 34
-    WAIT 1
-    NOTEON 2 195 29
-    WAIT 1
-    NOTEON 3 1174 35
-    WAIT 1
-    NOTEON 2 293 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 440 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 466 35
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 30
-    WAIT 1
-    NOTEON 2 880 35
-    WAIT 1
-    NOTEON 3 1244 35
-    WAIT 1
-    NOTEON 4 195 32
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 33
-    NOTEON 2 830 38
-    WAIT 1
-    NOTEON 3 1174 38
-    WAIT 1
-    NOTEON 4 195 32
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 38
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 32
-    WAIT 1
-    WAIT 1
-    NOTEON 4 440 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 587 31
-    WAIT 1
-    NOTEON 2 830 34
-    WAIT 1
-    NOTEON 3 1108 38
-    WAIT 1
-    NOTEON 4 195 29
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 32
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 440 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 554 38
-    WAIT 1
-    NOTEON 2 830 35
-    NOTEON 3 1174 40
-    WAIT 1
-    NOTEON 4 195 40
-    WAIT 1
-    NOTEOFF 1
-    NOTEON 1 277 30
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 391 30
-    WAIT 1
-    NOTEON 2 440 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 622 30
-    WAIT 1
-    NOTEON 2 830 35
-    NOTEON 3 1046 37
-    WAIT 1
-    NOTEON 4 174 35
-    WAIT 1
-    WAIT 1
-    NOTEON 4 261 35
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 35
-    WAIT 1
-    WAIT 1
-    NOTEON 2 415 37
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 523 31
-    WAIT 1
-    NOTEON 2 698 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 783 30
-    WAIT 1
-    NOTEON 2 207 27
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    NOTEON 1 1046 37
-    WAIT 1
-    NOTEON 2 659 35
-    NOTEON 3 523 31
-    NOTEON 4 329 37
-    NOTEOFF 1
-    NOTEON 1 391 30
-    NOTEOFF 1
-    NOTEON 1 233 29
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 932 35
-    NOTEON 2 466 32
-    WAIT 1
-    NOTEON 3 130 34
-    NOTEON 4 195 34
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 1
-    WAIT 2
-    NOTEON 1 415 29
-    WAIT 1
-    NOTEON 2 174 33
-    WAIT 1
-    NOTEON 3 523 33
-    WAIT 1
-    NOTEON 4 783 36
-    WAIT 1
-    WAIT 1
-    NOTEON 2 261 33
-    WAIT 1
-    WAIT 1
-    NOTEON 2 311 37
-    WAIT 1
-    WAIT 1
-    NOTEON 2 391 31
-    WAIT 2
-    WAIT 1
-    WAIT 1
+    NOTEON 1 57 31
+    NOTEON 1 53 30
+    NOOP
+    NOTEON 1 60 30
     WAIT 3
+    NOTEOFF 1 81
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEON 1 70 29
+    NOOP
+    NOTEON 1 55 32
+    NOOP
+    NOTEON 1 75 33
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 32
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 70 32
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 32
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEON 1 70 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 73 37
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 32
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEON 1 70 28
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEON 1 70 31
+    NOOP
+    NOTEOFF 1 55
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 69 35
+    NOOP
+    NOTEON 1 55 26
+    NOOP
+    NOTEON 1 75 32
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 74 34
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 33
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 34
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 73 36
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEON 1 53 30
+    NOOP
+    NOTEON 1 68 35
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 75 29
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEON 1 68 31
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 60 32
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 72 33
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOTEON 1 60 33
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 65 35
+    NOOP
+    NOTEON 1 50 30
+    NOOP
+    NOTEON 1 72 37
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 57 32
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 65 33
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 72 38
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 57 35
+    NOOP
+    NOTEOFF 1 50
+    NOOP
+    NOTEON 1 65 30
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEON 1 65 35
+    NOTEON 1 55 32
+    NOOP
+    NOTEON 1 71 31
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 71
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 71 33
+    NOOP
+    NOTEOFF 1 71
+    NOOP
+    NOTEON 1 53 32
+    NOOP
+    NOTEON 1 62 33
+    NOOP
+    NOTEON 1 77 35
+    NOTEON 1 59 36
+    NOOP
+    NOTEON 1 75 35
+    NOOP
+    NOTEOFF 1 59
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 74 32
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 72 33
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 75 37
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 87 36
+    NOOP
+    NOTEON 1 62 37
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 38
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEON 1 70 35
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 37
+    NOOP
+    NOTEON 1 86 38
+    NOTEON 1 55 29
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 38
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 35
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 86
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 70 27
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 73 36
+    NOTEON 1 55 27
+    NOOP
+    NOTEON 1 85 36
+    NOOP
+    NOTEON 1 62 36
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 38
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 85
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 70 27
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 36
+    NOOP
+    NOTEON 1 55 31
+    NOOP
+    NOTEON 1 86 38
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 38
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 36
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 79 33
+    NOTEON 1 81 36
+    NOOP
+    NOTEON 1 87 38
+    NOOP
+    NOTEON 1 55 26
+    NOOP
+    NOTEON 1 61 40
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEON 1 69 36
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 33
+    NOTEON 1 80 36
+    NOTEON 1 55 38
+    NOOP
+    NOTEON 1 86 37
+    NOOP
+    NOTEON 1 61 42
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 69 39
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 86
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 80 40
+    NOTEON 1 55 38
+    NOOP
+    NOTEON 1 85 38
+    NOOP
+    NOTEON 1 61 38
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 69 36
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 86 37
+    NOTEON 1 73 41
+    NOOP
+    NOTEON 1 80 30
+    NOOP
+    NOTEON 1 55 31
+    NOOP
+    NOTEON 1 61 36
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 80
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 75 37
+    NOOP
+    NOTEON 1 87 40
+    NOOP
+    NOTEON 1 78 32
+    NOOP
+    NOTEON 1 54 35
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 60 26
+    NOOP
+    NOTEOFF 1 78
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 66 40
+    NOOP
+    NOTEON 1 69 32
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 81 35
+    NOTEON 1 86 38
+    NOOP
+    NOTEON 1 54 40
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 60 27
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 66 30
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 73 37
+    NOOP
+    NOTEON 1 54 40
+    NOOP
+    NOTEON 1 78 36
+    NOTEON 1 85 37
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 60 26
+    NOOP
+    NOTEOFF 1 78
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 66 37
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 81 31
+    NOOP
+    NOTEON 1 86 35
+    NOTEON 1 93 39
+    NOOP
+    NOTEON 1 54 37
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 60 27
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 81
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 66 44
+    NOOP
+    NOTEOFF 1 93
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 55 30
+    NOOP
+    NOTEON 1 91 42
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 36
+    NOOP
+    NOTEON 1 84 37
+    NOTEOFF 1 91
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEON 1 86 33
+    NOOP
+    NOTEON 1 69 36
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 81 31
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEON 1 82 40
+    NOOP
+    NOTEON 1 55 30
+    NOOP
+    NOTEOFF 1 55
+    NOTEOFF 1 82
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEON 1 79 33
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 81 35
+    NOOP
+    NOTEON 1 69 30
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEON 1 74 36
+    NOOP
+    NOTEON 1 70 37
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 50 39
+    NOOP
+    NOTEON 1 77 40
+    NOOP
+    NOTEON 1 57 38
+    NOOP
+    NOTEOFF 1 50
+    NOOP
+    NOTEON 1 76 33
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 76
+    NOOP
+    NOTEON 1 64 38
+    NOOP
+    NOTEON 1 69 27
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 65 36
+    NOTEOFF 1 64
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 72 37
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 50 26
+    NOOP
+    NOTEOFF 1 72
+    NOTEON 1 57 38
+    NOOP
+    NOTEON 1 67 36
+    NOTEOFF 1 50
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 69 38
+    NOOP
+    NOTEON 1 64 34
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 65 38
+    NOTEOFF 1 64
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 93 43
+    NOOP
+    NOTEON 1 45 40
+    NOOP
+    NOTEON 1 52 41
+    NOOP
+    NOTEOFF 1 45
+    NOTEOFF 1 93
+    NOOP
+    NOTEON 1 86 39
+    NOOP
+    NOTEOFF 1 52
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 88 33
+    NOTEON 1 59 40
+    NOOP
+    NOTEOFF 1 88
+    NOOP
+    NOTEON 1 60 37
+    NOOP
+    NOTEON 1 83 37
+    NOOP
+    NOTEOFF 1 59
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 83
+    NOOP
+    NOTEON 1 84 37
+    NOOP
+    NOTEON 1 45 37
+    NOOP
+    NOTEON 1 52 38
+    NOOP
+    NOTEON 1 81 38
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 45
+    NOOP
+    NOTEOFF 1 52
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEON 1 83 33
+    NOTEON 1 59 31
+    NOOP
+    NOTEOFF 1 83
+    NOOP
+    NOTEON 1 76 38
+    NOOP
+    NOTEON 1 60 38
+    NOOP
+    NOTEOFF 1 59
+    NOOP
+    NOTEOFF 1 76
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 79 38
+    NOOP
+    NOTEON 1 52 31
+    NOOP
+    NOTEON 1 59 29
+    NOOP
+    NOTEON 1 78 37
+    NOTEOFF 1 52
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 59
+    NOOP
+    NOTEOFF 1 78
+    NOOP
+    NOTEON 1 66 35
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 66
+    NOTEON 1 76 33
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 76
+    NOOP
+    NOTEON 1 52 33
+    NOOP
+    NOTEON 1 71 33
+    NOOP
+    NOTEOFF 1 52
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 59 38
+    NOTEOFF 1 71
+    NOOP
+    NOTEOFF 1 59
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 69 39
+    NOOP
+    NOTEON 1 66 41
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 47 36
+    NOOP
+    NOTEON 1 95 38
+    NOOP
+    NOTEON 1 54 38
+    NOOP
+    NOTEOFF 1 95
+    NOOP
+    NOTEON 1 88 37
+    NOOP
+    NOTEOFF 1 47
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 90 38
+    NOOP
+    NOTEON 1 61 38
+    NOOP
+    NOTEOFF 1 88
+    NOOP
+    NOTEOFF 1 90
+    NOOP
+    NOTEON 1 62 33
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 85 39
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 86 33
+    NOOP
+    NOTEON 1 47 37
+    NOOP
+    NOTEON 1 54 36
+    NOOP
+    NOTEON 1 83 32
+    NOTEOFF 1 47
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEOFF 1 83
+    NOOP
+    NOTEON 1 85 30
+    NOOP
+    NOTEON 1 61 40
+    NOOP
+    NOTEON 1 62 34
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 81 37
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEON 1 50 34
+    NOOP
+    NOTEON 1 79 38
+    NOOP
+    NOTEON 1 57 33
+    NOOP
+    NOTEOFF 1 50
+    NOOP
+    NOTEON 1 77 33
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEON 1 64 38
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 76 33
+    NOOP
+    NOTEOFF 1 64
+    NOOP
+    NOTEON 1 65 35
+    NOOP
+    NOTEON 1 74 37
+    NOOP
+    NOTEOFF 1 76
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 74
+    NOTEON 1 72 38
+    NOOP
+    NOTEON 1 50 38
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 50
+    NOOP
+    NOTEON 1 57 38
+    NOOP
+    NOTEON 1 76 31
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 76
+    NOOP
+    NOTEON 1 69 35
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 64 31
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 64
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 80 36
+    NOTEON 1 53 33
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 74 32
+    NOOP
+    NOTEON 1 60 34
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 77 38
+    NOOP
+    NOTEON 1 67 36
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 80 37
+    NOOP
+    NOTEON 1 68 34
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 84 42
+    NOOP
+    NOTEON 1 53 31
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 77 38
+    NOOP
+    NOTEON 1 60 36
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 80 33
+    NOOP
+    NOTEON 1 67 39
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 86 37
+    NOTEON 1 68 38
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 80 33
+    NOOP
+    NOTEON 1 53 27
+    NOOP
+    NOTEOFF 1 80
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 60 37
+    NOOP
+    NOTEON 1 84 38
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEON 1 67 40
+    NOOP
+    NOTEON 1 89 38
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 89
+    NOOP
+    NOTEON 1 68 33
+    NOOP
+    NOTEON 1 80 34
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 84 38
+    NOOP
+    NOTEON 1 53 29
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 60 37
+    NOOP
+    NOTEON 1 89 38
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 89
+    NOOP
+    NOTEON 1 80 38
+    NOTEON 1 67 41
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 68 33
+    NOOP
+    NOTEON 1 92 47
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 92
+    NOOP
+    NOTEON 1 79 36
+    NOOP
+    NOTEON 1 48 31
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 91 33
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 55 37
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 79 26
+    NOOP
+    NOTEON 1 58 34
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 91 36
+    NOOP
+    NOTEON 1 67 39
+    NOOP
+    NOTEON 1 79 31
+    NOTEOFF 1 91
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 91 40
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 48 32
+    NOOP
+    NOTEON 1 79 35
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 55 43
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 91 39
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 79 38
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 58 30
+    NOOP
+    NOTEON 1 91 40
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 79 36
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 61 41
+    NOOP
+    NOTEON 1 91 41
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 79 34
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 91 34
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 60 35
+    NOOP
+    NOTEON 1 79 29
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 91 28
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 79 27
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 61 33
+    NOOP
+    NOTEON 1 91 26
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 79 25
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 91 27
+    NOOP
+    NOTEON 1 58 22
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 79 25
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 60 29
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 79 22
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 91 22
+    NOOP
+    NOTEON 1 56 26
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 79 22
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 58 27
+    NOOP
+    NOTEON 1 91 21
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 79 22
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 55 21
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 79 20
+    NOOP
+    NOTEON 1 91 20
+    NOOP
+    NOTEON 1 56 14
+    NOOP
+    NOTEOFF 1 55
+    WAIT 6
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEOFF 1 79
+    WAIT 2
+    NOTEON 1 41 34
+    NOOP
+    NOTEON 1 65 38
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 60 33
+    NOOP
+    NOTEON 1 55 29
+    NOTEON 1 56 27
+    NOTEON 1 48 30
+    NOOP
+    NOTEOFF 1 65
+    WAIT 2
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 48
+    WAIT 2
+    NOTEON 1 41 33
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 55 26
+    NOOP
+    NOTEON 1 48 30
+    NOTEON 1 56 24
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEON 1 65 32
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 65 33
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 67 36
+    NOOP
+    NOTEON 1 48 36
+    NOOP
+    NOTEOFF 1 48
+    WAIT 2
+    NOTEON 1 58 29
+    NOTEON 1 51 30
+    NOOP
+    NOTEON 1 60 33
+    NOTEON 1 55 31
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 55
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 51
+    WAIT 3
+    NOTEON 1 48 35
+    NOOP
+    NOTEOFF 1 48
+    WAIT 2
+    NOTEON 1 58 29
+    NOOP
+    NOTEON 1 51 29
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 60 28
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEON 1 68 30
+    NOTEON 1 49 31
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 49
+    WAIT 2
+    NOTEON 1 58 25
+    NOOP
+    NOTEON 1 56 28
+    NOOP
+    NOTEON 1 53 33
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 68 31
+    NOOP
+    NOTEON 1 70 28
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 39 33
+    NOOP
+    NOTEON 1 67 35
+    NOOP
+    NOTEOFF 1 39
+    WAIT 2
+    NOTEON 1 55 30
+    NOOP
+    NOTEON 1 58 29
+    NOOP
+    NOTEON 1 49 27
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 67 32
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 49
+    NOOP
+    NOTEON 1 75 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 72 35
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 41 28
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 55 30
+    NOOP
+    NOTEON 1 48 30
+    NOOP
+    NOTEON 1 56 24
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 58 29
+    NOOP
+    NOTEOFF 1 58
+    NOTEON 1 60 32
+    NOOP
+    NOTEON 1 36 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 36
+    WAIT 2
+    NOTEON 1 58 30
+    NOTEON 1 52 31
+    NOOP
+    NOTEON 1 55 30
+    NOOP
+    NOTEOFF 1 55
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 52
+    WAIT 2
+    NOTEON 1 56 26
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEON 1 41 35
+    NOOP
+    NOTEON 1 65 34
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 55 28
+    NOOP
+    NOTEON 1 60 31
+    NOTEON 1 56 24
+    NOOP
+    NOTEON 1 48 31
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 56
+    WAIT 2
+    NOTEON 1 41 31
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 55 29
+    NOTEON 1 56 26
+    NOOP
+    NOTEON 1 48 25
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEON 1 65 34
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOTEON 1 60 26
+    NOOP
+    NOTEON 1 65 32
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 67 35
+    NOTEON 1 48 37
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 58 29
+    NOTEON 1 51 27
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEON 1 60 34
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 67
+    WAIT 2
+    NOTEON 1 48 36
+    NOOP
+    NOTEOFF 1 48
+    WAIT 2
+    NOTEON 1 58 27
+    NOOP
+    NOTEON 1 55 29
+    NOTEON 1 51 27
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEON 1 68 28
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 70 33
+    NOOP
+    NOTEON 1 46 30
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 46
+    WAIT 2
+    NOTEON 1 63 27
+    NOOP
+    NOTEON 1 56 29
+    NOOP
+    NOTEON 1 53 30
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEON 1 61 30
+    NOOP
+    NOTEON 1 68 35
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 34
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 39 36
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 39
+    WAIT 2
+    NOTEON 1 55 30
+    NOTEON 1 51 27
+    NOOP
+    NOTEON 1 63 30
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 58 30
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 65 32
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 41 37
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 56 32
+    NOOP
+    NOTEON 1 55 33
+    NOOP
+    NOTEON 1 60 29
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 55
+    NOTEOFF 1 56
+    WAIT 2
+    NOTEON 1 55 36
+    NOTEON 1 63 33
+    NOOP
+    NOTEON 1 56 38
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEON 1 65 38
+    NOOP
+    NOTEON 1 57 34
+    NOTEON 1 60 34
+    NOOP
+    NOTEON 1 41 37
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 48 38
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 69 39
+    NOOP
+    NOTEON 1 60 41
+    NOOP
+    NOTEON 1 65 44
+    NOTEON 1 29 40
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 69
+    NOTEOFF 1 29
+    WAIT 2
+    NOTEON 1 60 38
+    NOTEON 1 63 37
+    NOTEON 1 70 35
+    NOTEON 1 39 30
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 39
+    NOTEOFF 1 70
+    WAIT 2
+    NOTEON 1 73 29
+    NOOP
+    NOTEON 1 61 27
+    NOOP
+    NOTEON 1 77 33
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEON 1 68 28
+    NOOP
+    NOTEON 1 84 31
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEON 1 82 33
+    NOOP
+    NOTEOFF 1 82
+    WAIT 2
     NOTEON 1 87 33
-    WAIT 1
-    NOTEON 2 261 37
-    NOTEON 3 195 35
-    NOTEON 4 207 33
+    NOOP
+    NOTEOFF 1 68
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEON 1 75 27
+    NOOP
+    NOTEON 1 80 30
+    NOOP
+    NOTEON 1 63 29
+    NOOP
+    NOTEON 1 84 33
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEON 1 70 31
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 79 30
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEON 1 82 30
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 72
+    WAIT 2
+    NOTEON 1 79 29
+    NOOP
+    NOTEON 1 80 30
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 75 36
+    NOTEON 1 72 30
+    NOOP
+    NOTEON 1 60 30
+    NOOP
+    NOTEON 1 82 33
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEON 1 67 32
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 80 34
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 79 30
+    NOOP
+    NOTEON 1 80 30
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 87 36
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEON 1 65 29
+    NOOP
+    NOTEON 1 79 28
+    NOOP
+    NOTEON 1 70 35
+    NOOP
+    NOTEON 1 75 30
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 70 37
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 72 30
+    NOOP
+    NOTEON 1 65 33
+    NOOP
+    NOTEON 1 75 30
+    NOTEON 1 80 34
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 73 32
+    NOOP
+    NOTEON 1 77 36
+    NOTEON 1 61 34
+    NOOP
+    NOTEON 1 84 37
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 61
+    WAIT 2
+    NOTEON 1 73 32
+    NOTEON 1 82 33
+    NOOP
+    NOTEON 1 77 35
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 68
+    WAIT 2
+    NOTEON 1 77 32
+    NOTEON 1 87 30
+    NOOP
+    NOTEON 1 82 34
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEON 1 78 32
+    NOOP
+    NOTEON 1 84 35
+    NOTEON 1 89 33
+    NOTEON 1 63 31
+    NOOP
+    NOTEOFF 1 78
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 89
+    NOOP
+    NOTEOFF 1 63
+    WAIT 2
+    NOTEON 1 87 30
+    NOOP
+    NOTEON 1 78 30
+    NOTEON 1 70 33
+    NOTEON 1 66 29
+    NOOP
+    NOTEON 1 82 36
+    NOOP
+    NOTEOFF 1 78
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEON 1 92 29
+    NOOP
+    NOTEON 1 91 33
+    NOTEON 1 68 30
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEOFF 1 92
+    NOOP
+    NOTEOFF 1 68
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 84 23
+    NOOP
+    NOTEOFF 1 91
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 75 35
+    NOOP
+    NOTEON 1 65 37
+    NOTEON 1 70 34
+    NOOP
+    NOTEON 1 58 41
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 56 30
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEON 1 73 40
+    NOOP
+    NOTEON 1 51 40
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 73
+    WAIT 2
+    NOTEON 1 48 33
+    NOOP
+    NOTEON 1 72 40
+    NOOP
+    NOTEON 1 63 39
+    NOTEON 1 67 40
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 36 40
+    WAIT 2
+    NOTEON 1 70 37
+    NOOP
+    NOTEON 1 60 40
+    NOTEON 1 63 40
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEON 1 67 36
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 63 34
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 36
+    WAIT 2
+    NOTEON 1 72 38
+    NOOP
+    NOTEON 1 65 40
+    NOTEON 1 37 38
+    NOOP
+    NOTEON 1 61 34
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 37
+    WAIT 2
+    NOTEON 1 61 31
+    NOOP
+    NOTEON 1 65 41
+    NOTEON 1 70 37
+    NOTEON 1 44 37
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
+    WAIT 2
+    NOTEON 1 75 36
+    NOTEON 1 65 41
+    NOTEON 1 70 40
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 39 38
+    NOOP
+    NOTEON 1 72 41
+    NOOP
+    NOTEON 1 63 38
+    NOTEON 1 68 38
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 39
+    WAIT 2
+    NOTEON 1 70 32
+    NOOP
+    NOTEON 1 61 38
+    NOTEON 1 46 38
+    NOOP
+    NOTEON 1 67 39
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 46
+    WAIT 2
+    NOTEON 1 67 40
+    NOOP
+    NOTEON 1 68 35
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 63 46
+    NOOP
+    NOTEON 1 60 38
+    NOTEON 1 70 45
+    NOTEON 1 36 43
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 36
+    WAIT 2
+    NOTEON 1 60 40
+    NOOP
+    NOTEON 1 63 39
+    NOTEON 1 68 38
+    NOTEON 1 48 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 35
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 75 38
+    NOOP
+    NOTEON 1 70 39
+    NOTEON 1 67 40
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 67
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 41 40
+    NOOP
+    NOTEON 1 58 40
+    NOTEON 1 63 33
+    NOTEON 1 67 39
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 67
+    WAIT 2
+    NOTEON 1 68 35
+    NOOP
+    NOTEON 1 48 40
+    NOOP
+    NOTEON 1 60 37
+    NOTEON 1 63 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 36
+    NOOP
+    NOTEON 1 56 27
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 55 33
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 42 34
+    NOOP
+    NOTEON 1 61 34
+    NOTEON 1 65 39
+    NOOP
+    NOTEON 1 70 33
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 42
+    NOOP
+    NOTEON 1 49 40
+    NOOP
+    NOTEOFF 1 49
+    NOOP
+    NOTEON 1 68 33
+    NOTEON 1 54 42
+    NOOP
+    NOTEON 1 72 36
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 58 45
+    NOOP
+    NOTEON 1 70 40
+    NOOP
+    NOTEON 1 73 40
+    NOOP
+    NOTEOFF 1 73
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 72 35
+    NOOP
+    NOTEON 1 75 35
+    NOTEON 1 60 35
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 66 38
+    NOTEON 1 77 36
+    NOOP
+    NOTEON 1 70 35
+    NOTEON 1 61 35
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 61 42
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 68 31
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 61 29
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 61
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 60 39
+    NOOP
+    NOTEON 1 65 37
+    NOTEON 1 77 31
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 70
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 58 39
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 82 36
+    NOOP
+    NOTEON 1 51 40
+    NOOP
+    NOTEON 1 75 40
+    NOOP
+    NOTEOFF 1 70
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEON 1 82 36
+    NOOP
+    NOTEON 1 70 32
+    NOTEON 1 41 31
+    NOOP
+    NOTEON 1 72 34
+    NOOP
+    NOTEON 1 77 37
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 60 30
+    NOOP
+    NOTEON 1 58 29
+    NOTEON 1 53 33
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 53
+    WAIT 2
+    NOTEON 1 53 32
+    NOOP
+    NOTEON 1 55 33
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 69 24
+    NOOP
+    NOTEON 1 41 34
+    NOOP
+    NOTEON 1 81 39
+    NOTEON 1 72 35
+    NOTEON 1 75 35
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEON 1 48 35
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 57 33
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 81
+    NOTEON 1 58 32
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 65 37
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 75 31
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 61 41
+    NOTEON 1 65 42
+    NOTEON 1 72 43
+    NOTEON 1 37 38
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 37
+    WAIT 2
+    NOTEON 1 61 36
+    NOTEON 1 65 42
+    NOTEON 1 70 37
+    NOOP
+    NOTEON 1 44 37
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
+    WAIT 2
+    NOTEON 1 75 36
+    NOTEON 1 65 35
+    NOTEON 1 70 38
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 63 40
+    NOTEON 1 68 40
+    NOOP
+    NOTEON 1 72 43
+    NOTEON 1 39 40
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 39
+    NOOP
+    NOTEOFF 1 72
+    WAIT 2
+    NOTEON 1 61 42
+    NOTEON 1 67 40
+    NOTEON 1 70 35
+    NOOP
+    NOTEON 1 46 46
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 46
+    WAIT 2
+    NOTEON 1 67 39
+    NOOP
+    NOTEON 1 68 43
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 63 48
+    NOTEON 1 70 48
+    NOOP
+    NOTEON 1 60 40
+    NOTEON 1 36 39
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 36
+    WAIT 2
+    NOTEON 1 60 40
+    NOTEON 1 63 43
+    NOTEON 1 68 38
+    NOTEON 1 48 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 37
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 70 38
+    NOTEON 1 75 38
+    NOOP
+    NOTEON 1 67 40
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 67
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 58 45
+    NOOP
+    NOTEON 1 63 25
+    NOTEON 1 67 38
+    NOTEON 1 41 37
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEOFF 1 67
+    WAIT 2
+    NOTEON 1 68 36
+    NOOP
+    NOTEON 1 60 38
+    NOTEON 1 63 38
+    NOTEON 1 48 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 35
+    NOOP
+    NOTEON 1 56 28
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEON 1 55 32
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 72 40
+    NOOP
+    NOTEON 1 61 38
+    NOTEON 1 65 42
+    NOOP
+    NOTEON 1 37 42
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 37
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    WAIT 2
+    NOTEON 1 61 35
+    NOOP
+    NOTEON 1 65 43
+    NOTEON 1 44 38
+    NOOP
+    NOTEON 1 70 38
+    NOOP
+    NOTEOFF 1 65
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
+    WAIT 2
+    NOTEON 1 65 37
+    NOOP
+    NOTEON 1 75 37
+    NOTEON 1 70 40
+    NOOP
+    NOTEOFF 1 75
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 66 39
+    NOOP
+    NOTEON 1 72 42
+    NOTEON 1 77 39
+    NOTEON 1 39 37
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 39
+    NOOP
+    NOTEOFF 1 77
+    NOTEOFF 1 72
+    WAIT 2
+    NOTEON 1 66 38
+    NOTEON 1 75 38
+    NOTEON 1 58 36
+    NOTEON 1 54 35
+    NOOP
+    NOTEON 1 70 40
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 58
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEON 1 80 36
+    NOOP
+    NOTEON 1 79 37
+    NOTEON 1 60 35
+    NOTEON 1 56 31
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEON 1 72 29
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 41 40
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 63 42
+    NOTEON 1 58 36
+    NOTEON 1 53 38
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 53
+    WAIT 2
+    NOTEON 1 61 31
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 51 31
+    NOOP
+    NOTEON 1 36 40
+    NOOP
+    NOTEON 1 55 38
+    NOTEON 1 60 44
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 60
+    NOTEOFF 1 36
+    NOOP
+    NOTEON 1 43 34
+    NOOP
+    NOTEOFF 1 43
+    NOOP
+    NOTEON 1 58 43
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 55 38
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 51 37
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEON 1 61 32
+    NOTEON 1 65 38
+    NOTEON 1 72 38
+    NOTEON 1 37 38
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 37
+    WAIT 2
+    NOTEON 1 65 40
+    NOTEON 1 70 37
+    NOOP
+    NOTEON 1 61 37
+    NOTEON 1 44 37
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 44
+    WAIT 2
+    NOTEON 1 75 35
+    NOOP
+    NOTEON 1 65 38
+    NOTEON 1 70 37
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 70
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 72 37
+    NOTEON 1 39 37
+    NOOP
+    NOTEON 1 63 38
+    NOTEON 1 68 40
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 39
+    WAIT 2
+    NOTEON 1 61 40
+    NOOP
+    NOTEON 1 70 31
+    NOOP
+    NOTEON 1 67 40
+    NOTEON 1 46 44
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 46
+    WAIT 2
+    NOTEON 1 67 38
+    NOOP
+    NOTEON 1 68 42
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 42
+    NOTEON 1 63 45
+    NOOP
+    NOTEON 1 70 45
+    NOOP
+    NOTEON 1 36 40
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 36
+    WAIT 2
+    NOTEON 1 63 37
+    NOTEON 1 48 37
+    NOOP
+    NOTEON 1 60 37
+    NOTEON 1 68 35
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 33
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 75 37
+    NOOP
+    NOTEON 1 70 38
+    NOTEON 1 67 39
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 67
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 58 44
+    NOOP
+    NOTEON 1 67 41
+    NOTEON 1 41 39
+    NOOP
+    NOTEON 1 63 24
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEOFF 1 67
+    WAIT 2
+    NOTEON 1 48 39
+    NOOP
+    NOTEON 1 68 36
+    NOOP
+    NOTEON 1 60 38
+    NOTEON 1 63 37
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 55 35
+    NOOP
+    NOTEON 1 56 27
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 55 32
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 61 38
+    NOTEON 1 70 35
+    NOOP
+    NOTEON 1 65 36
+    NOOP
+    NOTEON 1 42 41
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 42
+    NOOP
+    NOTEON 1 49 37
+    NOOP
+    NOTEOFF 1 49
+    NOOP
+    NOTEON 1 68 38
+    NOOP
+    NOTEON 1 72 39
+    NOOP
+    NOTEON 1 54 40
+    NOOP
+    NOTEOFF 1 54
+    NOOP
+    NOTEOFF 1 72
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 58 37
+    NOOP
+    NOTEON 1 70 45
+    NOOP
+    NOTEON 1 73 44
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 75 36
+    NOOP
+    NOTEON 1 72 37
+    NOTEON 1 60 37
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 66 38
+    NOOP
+    NOTEON 1 70 38
+    NOTEON 1 77 36
+    NOTEON 1 61 32
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 61 39
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 68 32
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 61 40
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 66
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 70 35
+    NOTEON 1 60 41
+    NOOP
+    NOTEON 1 65 38
+    NOOP
+    NOTEON 1 77 36
+    NOOP
+    NOTEOFF 1 65
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 58 46
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEON 1 70 33
+    NOOP
+    NOTEON 1 82 39
+    NOTEON 1 51 44
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEON 1 82 35
+    NOOP
+    NOTEON 1 72 39
+    NOTEON 1 41 40
+    NOOP
+    NOTEON 1 70 36
+    NOOP
+    NOTEON 1 77 41
+    NOOP
+    NOTEOFF 1 41
+    WAIT 2
+    NOTEON 1 60 31
+    NOOP
+    NOTEON 1 58 30
+    NOTEON 1 53 33
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 53
+    WAIT 2
+    NOTEON 1 55 30
+    NOOP
+    NOTEON 1 53 30
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 69 28
+    NOOP
+    NOTEON 1 72 35
+    NOOP
+    NOTEON 1 75 35
+    NOOP
+    NOTEON 1 81 38
+    NOOP
+    NOTEON 1 41 35
+    NOOP
+    NOTEOFF 1 41
+    NOOP
+    NOTEON 1 48 35
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEON 1 57 33
+    NOOP
+    NOTEON 1 58 32
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEOFF 1 58
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 69 27
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 75 20
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 85 25
+    NOTEON 1 94 24
+    NOTEON 1 77 34
+    NOOP
+    NOTEON 1 84 25
+    NOOP
+    NOTEON 1 89 28
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 75 25
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 65 25
+    NOOP
+    NOTEOFF 1 89
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEOFF 1 94
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 65
+    WAIT 2
+    NOTEON 1 84 22
+    NOOP
+    NOTEON 1 77 22
+    NOOP
+    NOTEON 1 87 22
+    NOOP
+    NOTEON 1 93 24
+    WAIT 4
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 93
+    NOOP
+    NOTEOFF 1 84
+    WAIT 2
+    NOTEON 1 51 24
+    NOOP
+    NOTEON 1 53 26
+    NOTEON 1 60 25
+    WAIT 12
+    NOTEOFF 1 53
+    NOOP
+    NOTEOFF 1 51
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 67 25
+    NOOP
+    NOTEON 1 70 30
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 75 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEON 1 70 29
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEON 1 67 26
+    NOOP
+    NOTEON 1 70 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 73 34
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 73
+    NOTEON 1 62 31
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 67
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 70 30
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 62 32
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEON 1 70 30
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 69 34
+    NOOP
+    NOTEON 1 55 28
+    NOOP
+    NOTEON 1 75 36
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEON 1 74 34
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 69 33
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 73 29
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 69 33
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 69 34
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEON 1 68 32
+    NOOP
+    NOTEON 1 53 30
+    NOOP
+    NOTEON 1 75 22
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 60 30
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 74 36
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEON 1 67 29
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 68 30
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 72 32
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 60 30
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOTEON 1 74 32
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 60 31
+    NOOP
+    NOTEON 1 67 28
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 68 29
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEON 1 50 31
+    NOOP
+    NOTEON 1 72 37
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 57 25
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEOFF 1 67
+    NOTEON 1 72 33
+    NOOP
+    NOTEON 1 57 31
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 50
+    NOOP
+    NOTEON 1 65 31
+    NOOP
+    NOTEOFF 1 57
+    NOOP
+    NOTEON 1 67 31
+    NOOP
+    NOTEOFF 1 67
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 65 31
+    NOTEON 1 55 31
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 71 34
+    NOOP
+    NOTEOFF 1 71
+    NOTEOFF 1 65
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 62 30
+    NOOP
+    NOTEON 1 65 29
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 65
+    NOOP
+    NOTEON 1 71 31
+    NOOP
+    NOTEOFF 1 71
+    NOOP
+    NOTEON 1 77 36
+    NOOP
+    NOTEON 1 53 31
+    NOTEON 1 62 33
+    NOOP
+    NOTEON 1 59 33
+    NOOP
+    NOTEOFF 1 59
+    NOOP
+    NOTEOFF 1 53
+    NOTEON 1 75 38
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 74 30
+    NOOP
+    NOTEON 1 72 28
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEON 1 75 32
+    NOOP
+    NOTEON 1 55 28
+    NOOP
+    NOTEON 1 87 35
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 31
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 40
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEON 1 70 35
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 33
+    NOOP
+    NOTEON 1 55 35
+    NOOP
+    NOTEON 1 86 38
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 34
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 69
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 70 34
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 73 34
+    NOOP
+    NOTEON 1 85 33
+    NOOP
+    NOTEON 1 55 25
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEON 1 62 36
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEON 1 70 41
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 74 34
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 86 35
+    NOOP
+    NOTEOFF 1 55
+    NOTEON 1 62 37
+    NOOP
+    NOTEOFF 1 62
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 69 38
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 70 35
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEON 1 79 30
+    NOOP
+    NOTEON 1 81 35
+    NOOP
+    NOTEON 1 87 35
+    NOOP
+    NOTEON 1 55 32
+    NOOP
+    NOTEON 1 61 35
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 33
+    NOOP
+    NOTEOFF 1 81
+    NOOP
+    NOTEON 1 69 34
+    NOOP
+    NOTEOFF 1 87
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 33
+    NOTEON 1 80 38
+    NOOP
+    NOTEON 1 86 38
+    NOOP
+    NOTEON 1 55 32
+    NOOP
+    NOTEON 1 61 38
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 32
+    NOOP
+    NOTEOFF 1 74
+    NOOP
+    NOTEON 1 69 37
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 74 31
+    NOOP
+    NOTEON 1 80 34
+    NOOP
+    NOTEON 1 85 38
+    NOOP
+    NOTEON 1 55 29
+    NOOP
+    NOTEON 1 61 29
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEON 1 67 32
+    NOOP
+    NOTEOFF 1 80
+    NOTEOFF 1 74
+    NOOP
+    NOTEOFF 1 85
+    NOOP
+    NOTEON 1 69 35
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 73 38
+    NOOP
+    NOTEON 1 80 35
+    NOTEON 1 86 40
+    NOOP
+    NOTEON 1 55 40
+    NOOP
+    NOTEON 1 61 30
+    NOOP
+    NOTEOFF 1 55
+    NOOP
+    NOTEOFF 1 61
+    NOOP
+    NOTEOFF 1 73
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEOFF 1 86
+    NOOP
+    NOTEON 1 67 30
+    NOOP
+    NOTEON 1 69 34
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 69
+    NOOP
+    NOTEON 1 75 30
+    NOOP
+    NOTEON 1 80 35
+    NOTEON 1 84 37
+    NOOP
+    NOTEON 1 53 35
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 60 35
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 80
+    NOOP
+    NOTEON 1 67 35
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEON 1 68 37
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 75
+    NOOP
+    NOTEOFF 1 68
+    NOOP
+    NOTEON 1 72 31
+    NOOP
+    NOTEON 1 77 27
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 77
+    NOOP
+    NOTEON 1 79 30
+    NOOP
+    NOTEON 1 56 27
+    NOOP
+    NOTEOFF 1 56
+    NOOP
+    NOTEOFF 1 79
+    NOOP
+    NOTEON 1 84 37
+    NOOP
+    NOTEON 1 76 35
+    NOTEON 1 72 31
+    NOTEON 1 64 37
+    NOTEON 1 67 30
+    NOTEON 1 58 29
+    NOOP
+    NOTEOFF 1 84
+    NOOP
+    NOTEOFF 1 76
+    NOOP
+    NOTEOFF 1 72
+    NOOP
+    NOTEOFF 1 64
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 58
+    WAIT 2
+    NOTEON 1 82 35
+    NOTEON 1 70 32
+    NOOP
+    NOTEON 1 48 34
+    NOTEON 1 55 34
+    NOOP
+    NOTEOFF 1 82
+    NOOP
+    NOTEOFF 1 70
+    NOOP
+    NOTEOFF 1 48
+    NOOP
+    NOTEOFF 1 55
+    WAIT 2
+    NOTEON 1 68 29
+    NOOP
+    NOTEON 1 53 33
+    NOOP
+    NOTEON 1 72 33
+    NOOP
+    NOTEON 1 79 36
+    NOOP
+    NOTEOFF 1 53
+    NOOP
+    NOTEON 1 60 33
+    NOOP
+    NOTEOFF 1 60
+    NOOP
+    NOTEON 1 63 37
+    NOOP
+    NOTEOFF 1 63
+    NOOP
+    NOTEON 1 67 31
+    WAIT 2
+    NOTEOFF 1 79
+    NOOP
+    NOTEOFF 1 67
+    NOOP
+    NOTEOFF 1 68
+    NOTEOFF 1 72
+    WAIT 3
+    NOTEON 1 41 33
+    NOOP
+    NOTEON 1 60 37
+    NOTEON 1 55 35
+    NOTEON 1 56 33
     WAIT 18
-    WAIT 1
+    NOTEOFF 1 56
+    NOTEOFF 1 55
+    NOTEOFF 1 60
+    NOOP
+    NOTEOFF 1 41
     JUMP start

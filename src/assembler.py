@@ -40,15 +40,13 @@ def compile_instructions(lines: List[str]) -> List[bytes]:
             chan = int(tokens[1])
             opcode = get_note_opcode(instr, chan)
             # print(debug_actual_microcode(instr, chan))
+            note = int(tokens[2])
 
             if instr == "NOTEON":
-                freq = int(tokens[2])
                 vel = int(tokens[3])
-                freq_hi = (freq >> 8) & 0xFF
-                freq_lo = freq & 0xFF
-                bytecode.append(bytes([opcode, freq_lo, freq_hi, vel]))
+                bytecode.append(bytes([opcode, note, vel, 0x00]))
             else:  # NOTEOFF
-                bytecode.append(bytes([opcode, 0x00, 0x00, 0x00]))
+                bytecode.append(bytes([opcode, note, 0x00, 0x00]))
 
         elif instr == "LABEL":
             jumps[tokens[1].strip()] = instr_idx
