@@ -82,8 +82,6 @@ def compile_instructions(lines: List[str]) -> List[bytes]:
 
 
 def to_hex(bytecode: List[bytes]) -> List[str]:
-    # return [' '.join(f'{b:02X}' for b in instr) for instr in bytecode]
-    # return [''.join(f'{b:02X}' for b in instr) for instr in bytecode]
     return ["".join(f"{b:02X}" for b in reversed(instr)) for instr in bytecode]
 
 
